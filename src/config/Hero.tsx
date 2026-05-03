@@ -3,23 +3,12 @@
  *
  * Want to customize this portfolio for yourself? Here's how easy it is:
  *
- * 1. Update your personal info:
- *    name: "Your Name"
- *    title: "Your Professional Title"
- *    avatar: "/path/to/your/image.jpg"
+ * 1. Update your personal info in `hero-data.ts`:
+ *    name, title, avatar, subtitleMiddle, spotify, skills, buttons
  *
- * 2. Add your skills:
- *    skills: [
- *      { name: "Python", href: "https://python.org", component: "Python" }, // Note: You'd need to create Python component
- *      { name: "React", href: "https://react.dev", component: "ReactIcon" },
- *      { name: "Node.js", href: "https://nodejs.org", component: "NodeJs" },
- *    ]
+ * 2. Add social links in `hero-data.ts` → `socialLinksMeta`
  *
- * 3. Write your description using the template:
- *    template: "I'm a **passionate developer** who loves building apps with {skills:0} and {skills:1}. I specialize in **web development** and enjoy working with {skills:2}."
- *
- * 4. Update your social links:
- *    Just change the href values to your own social media profiles
+ * 3. Icons for skills are mapped below in `skillComponents`.
  *
  * That's it! Your portfolio will automatically update with your information.
  */
@@ -31,10 +20,12 @@ import NextJs from '@/components/technologies/NextJs';
 import Python from '@/components/technologies/Python';
 import ReactIcon from '@/components/technologies/ReactIcon';
 import TypeScript from '@/components/technologies/TypeScript';
+import React from 'react';
 
-// Technology Components
+import { heroConfig, socialLinksMeta } from './hero-data';
 
-// Component mapping for skills
+export { heroConfig };
+
 export const skillComponents = {
   Python,
   ReactIcon,
@@ -43,89 +34,15 @@ export const skillComponents = {
   TypeScript,
 };
 
-export const heroConfig = {
-  // Personal Information
-  name: 'Dushyant',
-  /** Large headline (full name). Falls back to `name` if unset in UI. */
-  displayName: 'Dushyant',
-  title: 'An AI/ML developer.',
-  avatar: '/assets/logo.png',
-
-  /**
-   * Middle segment on the subtitle row (between role and email), middot-separated.
-   * Example: "B.Tech IT · JSSATE Noida" — keep short for layout.
-   */
-  subtitleMiddle: 'B.Tech IT · JSSATE Noida',
-
-  /** Optional Spotify row (set enabled true when you want it shown). */
-  spotify: {
-    enabled: false as boolean,
-    /** e.g. "Last played — Track · Artists" */
-    line: '',
-    href: '' as string,
-  },
-
-  // Skills Configuration
-  skills: [
-    {
-      name: 'Python',
-      href: 'https://www.python.org/',
-      component: 'Python',
-    },
-    {
-      name: 'MongoDB',
-      href: 'https://www.mongodb.com/',
-      component: 'MongoDB',
-    },
-    {
-      name: 'React',
-      href: 'https://react.dev/',
-      component: 'ReactIcon',
-    },
-    {
-      name: 'Next.js',
-      href: 'https://nextjs.org/',
-      component: 'NextJs',
-    },
-    {
-      name: 'TypeScript',
-      href: 'https://www.typescriptlang.org/',
-      component: 'TypeScript',
-    },
-  ],
-
-  // Buttons Configuration
-  buttons: [
-    {
-      variant: 'outline',
-      text: 'Resume / CV',
-      href: '/resume',
-      icon: 'CV',
-    },
-    {
-      variant: 'default',
-      text: 'Get in touch',
-      href: '/contact',
-      icon: 'Chat',
-    },
-  ],
-};
-
-// Social Links Configuration
-export const socialLinks = [
+const socialIconByName: Record<(typeof socialLinksMeta)[number]['name'], React.ReactNode> =
   {
-    name: 'LinkedIn',
-    href: 'https://www.linkedin.com/in/dushyantkv508/',
-    icon: <LinkedIn />,
-  },
-  {
-    name: 'Github',
-    href: 'https://github.com/dushyantzz',
-    icon: <Github />,
-  },
-  {
-    name: 'Email',
-    href: 'mailto:dushyantkv508@gmail.com',
-    icon: <Mail />,
-  },
-];
+    LinkedIn: <LinkedIn />,
+    Github: <Github />,
+    Email: <Mail />,
+  };
+
+export const socialLinks = socialLinksMeta.map((link) => ({
+  name: link.name,
+  href: link.href,
+  icon: socialIconByName[link.name],
+}));

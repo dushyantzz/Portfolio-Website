@@ -6,6 +6,9 @@ import PostgreSQL from '@/components/technologies/PostgreSQL';
 import Python from '@/components/technologies/Python';
 import ReactIcon from '@/components/technologies/ReactIcon';
 import TypeScript from '@/components/technologies/TypeScript';
+import React from 'react';
+
+export { about } from './about-data';
 
 export const mySkills = [
   <Python key="python" />,
@@ -17,8 +20,3 @@ export const mySkills = [
   <PostgreSQL key="postgresql" />,
   <AWS key="aws" />,
 ];
-
-export const about = {
-  name: 'Dushyant',
-  description: `I'm an AI/ML developer focused on Applied ML, Gen AI and LLMOps—currently pursuing a B.Tech in Information Technology at JSS Academy of Technical Education, Noida. I've contributed to projects like Superagent and LiteLLM, and I enjoy shipping secure, production-ready AI systems.`,
-};

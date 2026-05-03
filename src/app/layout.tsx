@@ -21,30 +21,30 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <ViewTransitions>
-      <html lang="en" suppressHydrationWarning>
-        <body className={`font-hanken-grotesk antialiased`}>
-          <ThemeProvider
-            attribute="class"
-            defaultTheme="system"
-            enableSystem
-            disableTransitionOnChange
-          >
-            <CommandPaletteProvider>
-              <ReactLenis root>
-                <Navbar />
+    <html lang="en" suppressHydrationWarning>
+      <body className="font-hanken-grotesk antialiased">
+        <ThemeProvider
+          attribute="class"
+          defaultTheme="system"
+          enableSystem
+          disableTransitionOnChange
+        >
+          <CommandPaletteProvider>
+            <Navbar />
+            <ReactLenis root>
+              <ViewTransitions>
                 {children}
                 <OnekoCat />
                 <Quote />
                 <Footer />
                 <ChatBubble />
                 <UmamiAnalytics />
-              </ReactLenis>
-              <Toaster position="bottom-center" richColors closeButton />
-            </CommandPaletteProvider>
-          </ThemeProvider>
-        </body>
-      </html>
-    </ViewTransitions>
+              </ViewTransitions>
+            </ReactLenis>
+            <Toaster position="bottom-center" richColors closeButton />
+          </CommandPaletteProvider>
+        </ThemeProvider>
+      </body>
+    </html>
   );
 }

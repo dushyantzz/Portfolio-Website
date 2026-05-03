@@ -3,6 +3,8 @@ import { createParser } from 'eventsource-parser';
 import { NextRequest, NextResponse } from 'next/server';
 import * as z from 'zod';
 
+export const dynamic = 'force-dynamic';
+
 const rateLimitStore = new Map<string, { count: number; resetTime: number }>();
 
 const RATE_LIMIT_WINDOW = 60 * 1000;

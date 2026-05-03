@@ -1,5 +1,4 @@
 import Container from '@/components/common/Container';
-import OpenSource from '@/components/landing/OpenSource';
 import CTA from '@/components/landing/CTA';
 import Experience from '@/components/landing/Experience';
 import Github from '@/components/landing/Github';
@@ -14,7 +13,6 @@ export default function page() {
       <Hero />
       <Experience />
       <Github />
-      <OpenSource />
       <CTA />
       <Setup />
       <Journey />

@@ -2,7 +2,7 @@ import Container from '@/components/common/Container';
 import { ProjectsSection } from '@/components/projects/ProjectsSection';
 import { Separator } from '@/components/ui/separator';
 import { generateMetadata as getMetadata } from '@/config/Meta';
-import { projects } from '@/config/Projects';
+import { projectsBase } from '@/config/projects-base';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
@@ -23,33 +23,24 @@ export const metadata: Metadata = {
 export default function ProjectsPage() {
   return (
     <Container className="py-16">
-      <div className="space-y-8">
-        {/* Header */}
-        <div className="space-y-4 text-center">
-          <h1 className="text-4xl font-bold tracking-tight lg:text-5xl">
+      <div className="mx-auto max-w-3xl space-y-10 md:max-w-4xl">
+        <header className="space-y-3">
+          <h1 className="text-foreground text-4xl font-bold tracking-tight lg:text-5xl">
             Projects
           </h1>
-          <p className="text-muted-foreground mx-auto max-w-2xl text-lg">
-            My projects and work across different technologies and domains.
+          <p className="text-secondary max-w-2xl text-lg leading-relaxed">
+            Builds across AI systems, compliance tooling, and Salesforce DX—with
+            the same narrative style as my open-source write-ups.
           </p>
-        </div>
+        </header>
 
         <Separator />
 
-        {/* Projects */}
-        <div className="space-y-6">
-          <div className="flex items-center justify-between">
-            <h2 className="text-2xl font-semibold">
-              All Projects
-              {projects.length > 0 && (
-                <span className="text-muted-foreground ml-2 text-sm font-normal">
-                  ({projects.length}{' '}
-                  {projects.length === 1 ? 'project' : 'projects'})
-                </span>
-              )}
-            </h2>
-          </div>
-
+        <div className="space-y-2">
+          <p className="text-muted-foreground text-sm font-medium">
+            {projectsBase.length}{' '}
+            {projectsBase.length === 1 ? 'project' : 'projects'}
+          </p>
           <ProjectsSection />
         </div>
       </div>

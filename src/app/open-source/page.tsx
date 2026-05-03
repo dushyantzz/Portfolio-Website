@@ -24,27 +24,25 @@ export const metadata: Metadata = {
 export default function OpenSourcePage() {
   return (
     <Container className="py-16">
-      <div className="space-y-8">
-        <div className="space-y-4 text-center">
-          <h1 className="text-4xl font-bold tracking-tight lg:text-5xl">
-            Open Source
+      <div className="mx-auto max-w-3xl space-y-10 md:max-w-4xl">
+        <header className="space-y-3">
+          <h1 className="text-foreground text-4xl font-bold tracking-tight lg:text-5xl">
+            Open source
           </h1>
-          <p className="text-muted-foreground mx-auto max-w-2xl text-lg">
-            Contributions to libraries and tools I rely on — security fixes,
-            testing, and correctness.
+          <p className="text-secondary max-w-2xl text-lg leading-relaxed">
+            Merged contributions with write-ups for context—security hardening,
+            test reliability, and billing correctness in tools I use in
+            production.
           </p>
-        </div>
+        </header>
 
         <Separator />
 
-        <div className="space-y-6">
-          <h2 className="text-2xl font-semibold">
-            Contributions
-            <span className="text-muted-foreground ml-2 text-sm font-normal">
-              ({openSourceContributions.length}{' '}
-              {openSourceContributions.length === 1 ? 'entry' : 'entries'})
-            </span>
-          </h2>
+        <div className="space-y-2">
+          <p className="text-muted-foreground text-sm font-medium">
+            {openSourceContributions.length}{' '}
+            {openSourceContributions.length === 1 ? 'contribution' : 'contributions'}
+          </p>
           <OpenSourceList items={openSourceContributions} />
         </div>
       </div>

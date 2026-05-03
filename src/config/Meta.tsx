@@ -216,5 +216,8 @@ export function generateMetadata(pathname: string) {
     alternates: {
       canonical: `${siteConfig.url}${pathname}`,
     },
+    icons: {
+      icon: [{ url: '/favicon.ico', sizes: 'any' }],
+    },
   };
 }

@@ -5,6 +5,9 @@ import PostgreSQL from '@/components/technologies/PostgreSQL';
 import Python from '@/components/technologies/Python';
 import ReactIcon from '@/components/technologies/ReactIcon';
 import TypeScript from '@/components/technologies/TypeScript';
+import React from 'react';
+
+import { experiencesBase } from './experience-base';
 
 export interface Technology {
   name: string;
@@ -29,59 +32,33 @@ export interface Experience {
   isBlur?: boolean;
 }
 
-export const experiences: Experience[] = [
-  {
-    isCurrent: false,
-    company: 'Tellis Technologies Pvt Ltd',
-    position: 'AI/ML Developer Intern',
-    location: 'Remote',
-    image: '/assets/logo.png',
-    description: [
-      'Designed a retrieval-augmented system using Applied ML, Gen AI and LLMOps by integrating vector databases (e.g., FAISS) with LLMs for domain-specific question answering.',
-      'Explored open-source LLMs (LLaMA / Mistral) and compared them with API-based models for cost-efficiency and scalability.',
-      'Built and refined prompt-engineering pipelines to reduce hallucinations and improve contextual accuracy in AI outputs.',
-    ],
-    startDate: 'May 2025',
-    endDate: 'August 2025',
-    technologies: [
-      {
-        name: 'Python',
-        href: 'https://www.python.org/',
-        icon: <Python />,
-      },
-      {
-        name: 'TypeScript',
-        href: 'https://www.typescriptlang.org/',
-        icon: <TypeScript />,
-      },
-      {
-        name: 'React',
-        href: 'https://react.dev/',
-        icon: <ReactIcon />,
-      },
-      {
-        name: 'Next.js',
-        href: 'https://nextjs.org/',
-        icon: <NextJs />,
-      },
-      {
-        name: 'MongoDB',
-        href: 'https://www.mongodb.com/',
-        icon: <MongoDB />,
-      },
-      {
-        name: 'PostgreSQL',
-        href: 'https://www.postgresql.org/',
-        icon: <PostgreSQL />,
-      },
-      {
-        name: 'AWS',
-        href: 'https://aws.amazon.com/',
-        icon: <AWS />,
-      },
-    ],
-    website: '#',
-    linkedin: 'https://www.linkedin.com/in/dushyantkv508/',
-    github: 'https://github.com/dushyantzz',
-  },
-];
+const techIconByName: Record<string, React.ReactNode> = {
+  Python: <Python />,
+  TypeScript: <TypeScript />,
+  React: <ReactIcon />,
+  'Next.js': <NextJs />,
+  MongoDB: <MongoDB />,
+  PostgreSQL: <PostgreSQL />,
+  AWS: <AWS />,
+};
+
+export const experiences: Experience[] = experiencesBase.map((e) => ({
+  isCurrent: e.isCurrent,
+  company: e.company,
+  position: e.position,
+  location: e.location,
+  image: e.image,
+  description: e.description,
+  startDate: e.startDate,
+  endDate: e.endDate,
+  website: e.website,
+  x: e.x,
+  linkedin: e.linkedin,
+  github: e.github,
+  isBlur: e.isBlur,
+  technologies: e.technologies.map((t) => ({
+    name: t.name,
+    href: t.href,
+    icon: techIconByName[t.name] ?? null,
+  })),
+}));

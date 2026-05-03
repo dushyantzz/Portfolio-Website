@@ -1,20 +1,20 @@
-import { about } from './About';
-import { experiences } from './Experience';
-import { heroConfig, socialLinks } from './Hero';
-import { projects } from './Projects';
+import { about } from './about-data';
+import { experiencesBase } from './experience-base';
+import { heroConfig, socialLinksMeta } from './hero-data';
+import { projectsBase } from './projects-base';
 
 function generateSystemPrompt(): string {
   const skillNames = heroConfig.skills.map((skill) => skill.name).join(', ');
-  const socialLinksText = socialLinks
+  const socialLinksText = socialLinksMeta
     .map((link) => `${link.name}: ${link.href}`)
     .join('\n- ');
-  const experienceText = experiences
+  const experienceText = experiencesBase
     .map(
       (exp) =>
         `${exp.position} at ${exp.company} (${exp.startDate} - ${exp.endDate})`,
     )
     .join('\n- ');
-  const projectsText = projects
+  const projectsText = projectsBase
     .map(
       (project) =>
         `${project.title}: ${project.description}${project.live ? ` - ${project.live}` : ''}`,
