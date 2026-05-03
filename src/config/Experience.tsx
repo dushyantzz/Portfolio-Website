@@ -1,10 +1,10 @@
-import AWS from '@/components/technologies/AWS';
-import MongoDB from '@/components/technologies/MongoDB';
-import NextJs from '@/components/technologies/NextJs';
-import PostgreSQL from '@/components/technologies/PostgreSQL';
+import Faiss from '@/components/technologies/Faiss';
+import HuggingFace from '@/components/technologies/HuggingFace';
+import LangChain from '@/components/technologies/LangChain';
+import Mistral from '@/components/technologies/Mistral';
+import OpenAI from '@/components/technologies/OpenAI';
 import Python from '@/components/technologies/Python';
-import ReactIcon from '@/components/technologies/ReactIcon';
-import TypeScript from '@/components/technologies/TypeScript';
+import PyTorch from '@/components/technologies/PyTorch';
 import React from 'react';
 
 import { experiencesBase } from './experience-base';
@@ -34,12 +34,12 @@ export interface Experience {
 
 const techIconByName: Record<string, React.ReactNode> = {
   Python: <Python />,
-  TypeScript: <TypeScript />,
-  React: <ReactIcon />,
-  'Next.js': <NextJs />,
-  MongoDB: <MongoDB />,
-  PostgreSQL: <PostgreSQL />,
-  AWS: <AWS />,
+  PyTorch: <PyTorch />,
+  'Hugging Face': <HuggingFace />,
+  FAISS: <Faiss />,
+  LangChain: <LangChain />,
+  'Mistral AI': <Mistral />,
+  OpenAI: <OpenAI />,
 };
 
 export const experiences: Experience[] = experiencesBase.map((e) => ({
