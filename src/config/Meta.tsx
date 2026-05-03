@@ -13,7 +13,7 @@ export interface PageMeta {
 export const siteConfig = {
   name: heroConfig.name,
   title: `${heroConfig.name} — Portfolio`,
-  description: `Portfolio of ${about.name}: AI/ML, RAG, LLMs, and MLOps.`,
+  description: `Portfolio of ${about.name}: Applied ML, Gen AI and LLMOps.`,
   url: process.env.NEXT_PUBLIC_URL || 'http://localhost:3000',
   ogImage: '/meta/opengraph-image.png',
   author: {
@@ -29,7 +29,9 @@ export const siteConfig = {
     'AI',
     'machine learning',
     'LLM',
-    'RAG',
+    'applied ML',
+    'generative AI',
+    'LLMOps',
     'MLOps',
     'Python',
     heroConfig.name.toLowerCase(),

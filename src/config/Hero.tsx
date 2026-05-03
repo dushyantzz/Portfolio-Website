@@ -46,8 +46,24 @@ export const skillComponents = {
 export const heroConfig = {
   // Personal Information
   name: 'Dushyant',
+  /** Large headline (full name). Falls back to `name` if unset in UI. */
+  displayName: 'Dushyant',
   title: 'An AI/ML developer.',
   avatar: '/assets/logo.png',
+
+  /**
+   * Middle segment on the subtitle row (between role and email), middot-separated.
+   * Example: "B.Tech IT · JSSATE Noida" — keep short for layout.
+   */
+  subtitleMiddle: 'B.Tech IT · JSSATE Noida',
+
+  /** Optional Spotify row (set enabled true when you want it shown). */
+  spotify: {
+    enabled: false as boolean,
+    /** e.g. "Last played — Track · Artists" */
+    line: '',
+    href: '' as string,
+  },
 
   // Skills Configuration
   skills: [
@@ -77,12 +93,6 @@ export const heroConfig = {
       component: 'TypeScript',
     },
   ],
-
-  // Description Configuration
-  description: {
-    template:
-      'I build <b>RAG</b> and <b>LLM</b> systems with {skills:0}, {skills:1}, {skills:2}, {skills:3}, and {skills:4}. Experienced with <b>LangChain</b>, vector databases, <b>MLOps</b>, and safe AI tooling.',
-  },
 
   // Buttons Configuration
   buttons: [

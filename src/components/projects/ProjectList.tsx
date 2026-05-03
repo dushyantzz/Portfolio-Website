@@ -1,6 +1,5 @@
 import { type Project } from '@/types/project';
 import React from 'react';
-
 import { ProjectCard } from './ProjectCard';
 
 interface ProjectListProps {

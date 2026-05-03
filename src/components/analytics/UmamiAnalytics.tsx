@@ -1,19 +1,25 @@
 import Script from 'next/script';
 
-export default function UmamiAnalytics() {
-  const umamiSrc = process.env.NEXT_PUBLIC_UMAMI_SRC;
-  const umamiId = process.env.NEXT_PUBLIC_UMAMI_ID;
+function getUmamiConfig(): { src: string; id: string } | null {
+  const src = process.env.NEXT_PUBLIC_UMAMI_SRC;
+  const id = process.env.NEXT_PUBLIC_UMAMI_ID;
+  if (!src || !id) return null;
+  const placeholder =
+    /your-|placeholder|example\.com|^\/\//i.test(src) ||
+    /your-|placeholder/i.test(id);
+  if (placeholder) return null;
+  return { src, id };
+}
 
-  if (!umamiSrc || !umamiId) {
-    console.error('Umami Analytics is not configured.');
-    return null;
-  }
+export default function UmamiAnalytics() {
+  const cfg = getUmamiConfig();
+  if (!cfg) return null;
 
   return (
     <Script
       id="umami-analytics"
-      src={umamiSrc}
-      data-website-id={umamiId}
+      src={cfg.src}
+      data-website-id={cfg.id}
       strategy="afterInteractive"
       async
     />

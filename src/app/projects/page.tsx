@@ -1,5 +1,5 @@
 import Container from '@/components/common/Container';
-import { ProjectList } from '@/components/projects/ProjectList';
+import { ProjectsSection } from '@/components/projects/ProjectsSection';
 import { Separator } from '@/components/ui/separator';
 import { generateMetadata as getMetadata } from '@/config/Meta';
 import { projects } from '@/config/Projects';
@@ -50,7 +50,7 @@ export default function ProjectsPage() {
             </h2>
           </div>
 
-          <ProjectList projects={projects} />
+          <ProjectsSection />
         </div>
       </div>
     </Container>

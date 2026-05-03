@@ -37,7 +37,7 @@ export const experiences: Experience[] = [
     location: 'Remote',
     image: '/assets/logo.png',
     description: [
-      'Designed a Retrieval-Augmented Generation (RAG) system by integrating vector databases (e.g., FAISS) with LLMs for domain-specific question answering.',
+      'Designed a retrieval-augmented system using Applied ML, Gen AI and LLMOps by integrating vector databases (e.g., FAISS) with LLMs for domain-specific question answering.',
       'Explored open-source LLMs (LLaMA / Mistral) and compared them with API-based models for cost-efficiency and scalability.',
       'Built and refined prompt-engineering pipelines to reduce hallucinations and improve contextual accuracy in AI outputs.',
     ],

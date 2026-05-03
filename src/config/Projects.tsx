@@ -28,7 +28,7 @@ export const projects: Project[] = [
   {
     title: 'Daredevil — AI Surveillance System',
     description:
-      'AI surveillance pipeline for suspicious-activity detection with a GNN on behavioral data, RAG with Pinecone, and alerts via WhatsApp, email, and phone.',
+      'AI surveillance pipeline for suspicious-activity detection with a GNN on behavioral data, Applied ML, Gen AI and LLMOps with Pinecone, and alerts via WhatsApp, email, and phone.',
     image: '/assets/logo.png',
     link: 'https://github.com/dushyantzz',
     technologies: [
@@ -46,7 +46,7 @@ export const projects: Project[] = [
   {
     title: 'Compliance QA Pipeline (Brand Guardian)',
     description:
-      'LLMOps pipeline to audit YouTube content via speech, OCR, and metadata; RAG with Azure AI Search for grounded compliance checks; orchestrated with LangGraph and FastAPI.',
+      'LLMOps pipeline to audit YouTube content via speech, OCR, and metadata; Applied ML, Gen AI and LLMOps with Azure AI Search for grounded compliance checks; orchestrated with LangGraph and FastAPI.',
     image: '/assets/logo.png',
     link: 'https://github.com/dushyantzz',
     technologies: [
