@@ -27,5 +27,9 @@ export const navbarConfig = {
       label: 'Projects',
       href: '/projects',
     },
+    {
+      label: 'Resume',
+      href: '/resume',
+    },
   ] as NavItem[],
 };
