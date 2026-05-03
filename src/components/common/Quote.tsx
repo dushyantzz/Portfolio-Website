@@ -1,24 +1,17 @@
 'use client';
 
-import { quotes } from '@/config/Quote';
-import { useEffect, useState } from 'react';
+import { getQuoteForPathname } from '@/config/quote-by-route';
+import { usePathname } from 'next/navigation';
+import { useMemo } from 'react';
 
 import Container from './Container';
 
 export const Quote = () => {
-  const [currentQuote, setCurrentQuote] = useState<{
-    quote: string;
-    author: string;
-  } | null>(null);
-
-  useEffect(() => {
-    const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
-    setCurrentQuote(randomQuote);
-  }, []);
-
-  if (!currentQuote) return null;
-
-  const { quote, author } = currentQuote;
+  const pathname = usePathname() ?? '/';
+  const { quote, author } = useMemo(
+    () => getQuoteForPathname(pathname),
+    [pathname],
+  );
 
   return (
     <Container className="py-16">
