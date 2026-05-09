@@ -1,5 +1,4 @@
 import UmamiAnalytics from '@/components/analytics/UmamiAnalytics';
-import ChatBubble from '@/components/common/ChatBubble';
 import { CommandPaletteProvider } from '@/components/common/command-palette';
 import Footer from '@/components/common/Footer';
 import Navbar from '@/components/common/Navbar';
@@ -37,7 +36,6 @@ export default function RootLayout({
                 <OnekoCat />
                 <Quote />
                 <Footer />
-                <ChatBubble />
                 <UmamiAnalytics />
               </ViewTransitions>
             </ReactLenis>
