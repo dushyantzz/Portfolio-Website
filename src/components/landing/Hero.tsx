@@ -19,6 +19,7 @@ export default function Hero() {
     displayName,
     title,
     avatar,
+    avatarObjectPosition,
     subtitleMiddle,
     spotify,
   } = heroConfig;
@@ -47,7 +48,8 @@ export default function Hero() {
             width={128}
             height={128}
             priority
-            className="size-28 shrink-0 rounded-full bg-amber-300 ring-2 ring-black/10 md:size-32 dark:bg-amber-400 dark:ring-white/10"
+            className="size-28 shrink-0 rounded-full bg-amber-300 object-cover ring-2 ring-black/10 md:size-32 dark:bg-amber-400 dark:ring-white/10"
+            style={{ objectPosition: avatarObjectPosition }}
           />
           <header className="min-w-0 flex-1 space-y-3 pt-0.5">
             <h1 className="text-foreground text-3xl font-bold tracking-tight md:text-4xl lg:text-[2.5rem]">

@@ -41,7 +41,7 @@ export const experiencesBase: ExperienceBase[] = [
       { name: 'OpenAI', href: 'https://platform.openai.com/' },
     ],
     website: '#',
-    linkedin: 'https://www.linkedin.com/in/dushyantkv508/',
+    linkedin: 'https://www.linkedin.com/in/dushyant-882a58293/',
     github: 'https://github.com/dushyantzz',
   },
 ];

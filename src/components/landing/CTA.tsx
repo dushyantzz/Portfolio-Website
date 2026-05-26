@@ -79,7 +79,10 @@ export default function CTA({
                     height={20}
                     className="h-full w-full object-cover"
                     src={profileImage}
-                    style={{ color: 'transparent' }}
+                    style={{
+                      color: 'transparent',
+                      objectPosition: ctaConfig.profileObjectPosition,
+                    }}
                   />
                 </div>
                 <div className="absolute left-[24px] flex -translate-x-full transform items-center gap-0 opacity-0 transition-all duration-300 group-hover:translate-x-0 group-hover:opacity-100">

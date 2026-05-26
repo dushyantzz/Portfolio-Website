@@ -4,7 +4,8 @@ export const heroConfig = {
   name: 'Dushyant',
   displayName: 'Dushyant',
   title: 'An AI/ML developer.',
-  avatar: '/assets/logo.png',
+  avatar: '/assets/profile.jpg',
+  avatarObjectPosition: '50% 35%',
   subtitleMiddle: 'B.Tech IT · JSSATE Noida',
   spotify: {
     enabled: false as boolean,
@@ -57,7 +58,7 @@ export const heroConfig = {
 export const socialLinksMeta = [
   {
     name: 'LinkedIn',
-    href: 'https://www.linkedin.com/in/dushyantkv508/',
+    href: 'https://www.linkedin.com/in/dushyant-882a58293/',
   },
   {
     name: 'Github',

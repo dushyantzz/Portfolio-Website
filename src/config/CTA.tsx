@@ -7,8 +7,9 @@
 
 export const ctaConfig = {
   // Profile image settings
-  profileImage: '/assets/logo.png',
+  profileImage: '/assets/profile.jpg',
   profileAlt: 'Dushyant',
+  profileObjectPosition: '80% 55%',
 
   // CTA button settings — create a Cal.com link and replace `your-username/meeting`
   linkText: 'Book a Free Call',

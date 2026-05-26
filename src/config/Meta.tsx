@@ -20,7 +20,7 @@ export const siteConfig = {
     name: about.name,
     twitter: '@dushyantzz',
     github: 'dushyantzz',
-    linkedin: 'dushyantkv508',
+    linkedin: 'dushyant-882a58293',
     email: 'dushyantkv508@gmail.com',
   },
   keywords: [
