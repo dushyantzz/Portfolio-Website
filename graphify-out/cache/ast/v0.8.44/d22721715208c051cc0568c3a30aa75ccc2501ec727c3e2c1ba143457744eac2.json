@@ -1,0 +1,357 @@
+{
+  "nodes": [
+    {
+      "id": "c_users_shubham_desktop_core_project_portfolio_website_knip_json",
+      "label": "knip.json",
+      "file_type": "code",
+      "source_file": "knip.json",
+      "source_location": "L1"
+    },
+    {
+      "id": "portfolio_website_knip_schema",
+      "label": "$schema",
+      "file_type": "code",
+      "source_file": "knip.json",
+      "source_location": "L2"
+    },
+    {
+      "id": "portfolio_website_knip_entry",
+      "label": "entry",
+      "file_type": "code",
+      "source_file": "knip.json",
+      "source_location": "L3"
+    },
+    {
+      "id": "portfolio_website_knip_project",
+      "label": "project",
+      "file_type": "code",
+      "source_file": "knip.json",
+      "source_location": "L4"
+    },
+    {
+      "id": "portfolio_website_knip_ignore",
+      "label": "ignore",
+      "file_type": "code",
+      "source_file": "knip.json",
+      "source_location": "L5"
+    },
+    {
+      "id": "portfolio_website_knip_ignoredependencies",
+      "label": "ignoreDependencies",
+      "file_type": "code",
+      "source_file": "knip.json",
+      "source_location": "L6"
+    },
+    {
+      "id": "portfolio_website_knip_ignoreexportsusedinfile",
+      "label": "ignoreExportsUsedInFile",
+      "file_type": "code",
+      "source_file": "knip.json",
+      "source_location": "L24"
+    },
+    {
+      "id": "portfolio_website_knip_ignoreexportsusedinfile_interface",
+      "label": "interface",
+      "file_type": "code",
+      "source_file": "knip.json",
+      "source_location": "L25"
+    },
+    {
+      "id": "portfolio_website_knip_ignoreexportsusedinfile_type",
+      "label": "type",
+      "file_type": "code",
+      "source_file": "knip.json",
+      "source_location": "L26"
+    },
+    {
+      "id": "portfolio_website_knip_tags",
+      "label": "tags",
+      "file_type": "code",
+      "source_file": "knip.json",
+      "source_location": "L28"
+    }
+  ],
+  "edges": [
+    {
+      "source": "c_users_shubham_desktop_core_project_portfolio_website_knip_json",
+      "target": "portfolio_website_knip_schema",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "knip.json",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "c_users_shubham_desktop_core_project_portfolio_website_knip_json",
+      "target": "portfolio_website_knip_entry",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "knip.json",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "portfolio_website_knip_entry",
+      "target": "ref_src_ts_tsx_js_jsx",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "knip.json",
+      "source_location": "L3",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "c_users_shubham_desktop_core_project_portfolio_website_knip_json",
+      "target": "portfolio_website_knip_project",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "knip.json",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "portfolio_website_knip_project",
+      "target": "ref_js_cjs_mjs_jsx_ts_cts_mts_tsx",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "knip.json",
+      "source_location": "L4",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "c_users_shubham_desktop_core_project_portfolio_website_knip_json",
+      "target": "portfolio_website_knip_ignore",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "knip.json",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "portfolio_website_knip_ignore",
+      "target": "ref_public_oneko_oneko_js",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "knip.json",
+      "source_location": "L5",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "c_users_shubham_desktop_core_project_portfolio_website_knip_json",
+      "target": "portfolio_website_knip_ignoredependencies",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "knip.json",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "portfolio_website_knip_ignoredependencies",
+      "target": "ref_mdx_js_loader",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "knip.json",
+      "source_location": "L6",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "portfolio_website_knip_ignoredependencies",
+      "target": "ref_mdx_js_react",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "knip.json",
+      "source_location": "L6",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "portfolio_website_knip_ignoredependencies",
+      "target": "ref_next_mdx",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "knip.json",
+      "source_location": "L6",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "portfolio_website_knip_ignoredependencies",
+      "target": "ref_types_mdx",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "knip.json",
+      "source_location": "L6",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "portfolio_website_knip_ignoredependencies",
+      "target": "ref_date_fns",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "knip.json",
+      "source_location": "L6",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "portfolio_website_knip_ignoredependencies",
+      "target": "ref_motion",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "knip.json",
+      "source_location": "L6",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "portfolio_website_knip_ignoredependencies",
+      "target": "ref_recharts",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "knip.json",
+      "source_location": "L6",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "portfolio_website_knip_ignoredependencies",
+      "target": "ref_rehype_stringify",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "knip.json",
+      "source_location": "L6",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "portfolio_website_knip_ignoredependencies",
+      "target": "ref_remark_frontmatter",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "knip.json",
+      "source_location": "L6",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "portfolio_website_knip_ignoredependencies",
+      "target": "ref_remark_gfm",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "knip.json",
+      "source_location": "L6",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "portfolio_website_knip_ignoredependencies",
+      "target": "ref_shiki",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "knip.json",
+      "source_location": "L6",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "portfolio_website_knip_ignoredependencies",
+      "target": "ref_tailwindcss_typography",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "knip.json",
+      "source_location": "L6",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "portfolio_website_knip_ignoredependencies",
+      "target": "ref_eslint_config_next",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "knip.json",
+      "source_location": "L6",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "portfolio_website_knip_ignoredependencies",
+      "target": "ref_tailwindcss",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "knip.json",
+      "source_location": "L6",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "portfolio_website_knip_ignoredependencies",
+      "target": "ref_tw_animate_css",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "knip.json",
+      "source_location": "L6",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "portfolio_website_knip_ignoredependencies",
+      "target": "ref_postcss",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "knip.json",
+      "source_location": "L6",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "c_users_shubham_desktop_core_project_portfolio_website_knip_json",
+      "target": "portfolio_website_knip_ignoreexportsusedinfile",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "knip.json",
+      "source_location": "L24",
+      "weight": 1.0
+    },
+    {
+      "source": "portfolio_website_knip_ignoreexportsusedinfile",
+      "target": "portfolio_website_knip_ignoreexportsusedinfile_interface",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "knip.json",
+      "source_location": "L25",
+      "weight": 1.0
+    },
+    {
+      "source": "portfolio_website_knip_ignoreexportsusedinfile",
+      "target": "portfolio_website_knip_ignoreexportsusedinfile_type",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "knip.json",
+      "source_location": "L26",
+      "weight": 1.0
+    },
+    {
+      "source": "c_users_shubham_desktop_core_project_portfolio_website_knip_json",
+      "target": "portfolio_website_knip_tags",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "knip.json",
+      "source_location": "L28",
+      "weight": 1.0
+    },
+    {
+      "source": "portfolio_website_knip_tags",
+      "target": "ref_lintignore",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": "knip.json",
+      "source_location": "L28",
+      "weight": 1.0,
+      "context": "import"
+    }
+  ]
+}

@@ -1,0 +1,1502 @@
+{
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\.husky\\_\\applypatch-msg": {
+    "mtime": 1782447188.5368574,
+    "ast_hash": "0b71c2e7d39daa010985d529f1320b37",
+    "semantic_hash": "0b71c2e7d39daa010985d529f1320b37"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\.husky\\_\\commit-msg": {
+    "mtime": 1782447188.5348208,
+    "ast_hash": "0b71c2e7d39daa010985d529f1320b37",
+    "semantic_hash": "0b71c2e7d39daa010985d529f1320b37"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\.husky\\_\\h": {
+    "mtime": 1777807971.582532,
+    "ast_hash": "15239a01c5554e56ff745570fb583a91",
+    "semantic_hash": "15239a01c5554e56ff745570fb583a91"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\.husky\\_\\husky.sh": {
+    "mtime": 1782447188.5368574,
+    "ast_hash": "13871d2ab13e8423790ecb2c01c78c18",
+    "semantic_hash": "13871d2ab13e8423790ecb2c01c78c18"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\.husky\\_\\post-applypatch": {
+    "mtime": 1782447188.5368574,
+    "ast_hash": "0b71c2e7d39daa010985d529f1320b37",
+    "semantic_hash": "0b71c2e7d39daa010985d529f1320b37"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\.husky\\_\\post-checkout": {
+    "mtime": 1782447188.5368574,
+    "ast_hash": "0b71c2e7d39daa010985d529f1320b37",
+    "semantic_hash": "0b71c2e7d39daa010985d529f1320b37"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\.husky\\_\\post-commit": {
+    "mtime": 1782447188.5348208,
+    "ast_hash": "0b71c2e7d39daa010985d529f1320b37",
+    "semantic_hash": "0b71c2e7d39daa010985d529f1320b37"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\.husky\\_\\post-merge": {
+    "mtime": 1782447188.5368574,
+    "ast_hash": "0b71c2e7d39daa010985d529f1320b37",
+    "semantic_hash": "0b71c2e7d39daa010985d529f1320b37"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\.husky\\_\\post-rewrite": {
+    "mtime": 1782447188.5368574,
+    "ast_hash": "0b71c2e7d39daa010985d529f1320b37",
+    "semantic_hash": "0b71c2e7d39daa010985d529f1320b37"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\.husky\\_\\pre-applypatch": {
+    "mtime": 1782447188.5368574,
+    "ast_hash": "0b71c2e7d39daa010985d529f1320b37",
+    "semantic_hash": "0b71c2e7d39daa010985d529f1320b37"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\.husky\\_\\pre-auto-gc": {
+    "mtime": 1782447188.5368574,
+    "ast_hash": "0b71c2e7d39daa010985d529f1320b37",
+    "semantic_hash": "0b71c2e7d39daa010985d529f1320b37"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\.husky\\_\\pre-commit": {
+    "mtime": 1782447188.527292,
+    "ast_hash": "0b71c2e7d39daa010985d529f1320b37",
+    "semantic_hash": "0b71c2e7d39daa010985d529f1320b37"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\.husky\\_\\pre-merge-commit": {
+    "mtime": 1782447188.5348208,
+    "ast_hash": "0b71c2e7d39daa010985d529f1320b37",
+    "semantic_hash": "0b71c2e7d39daa010985d529f1320b37"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\.husky\\_\\pre-push": {
+    "mtime": 1782447188.5368574,
+    "ast_hash": "0b71c2e7d39daa010985d529f1320b37",
+    "semantic_hash": "0b71c2e7d39daa010985d529f1320b37"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\.husky\\_\\pre-rebase": {
+    "mtime": 1782447188.5368574,
+    "ast_hash": "0b71c2e7d39daa010985d529f1320b37",
+    "semantic_hash": "0b71c2e7d39daa010985d529f1320b37"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\.husky\\_\\prepare-commit-msg": {
+    "mtime": 1782447188.5348208,
+    "ast_hash": "0b71c2e7d39daa010985d529f1320b37",
+    "semantic_hash": "0b71c2e7d39daa010985d529f1320b37"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\.husky\\pre-commit": {
+    "mtime": 1782447493.3048365,
+    "ast_hash": "7d8a9e83b115fad7f9e456afdd6a3b9d",
+    "semantic_hash": "7d8a9e83b115fad7f9e456afdd6a3b9d"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\.prettierrc.json": {
+    "mtime": 1778325191.2503493,
+    "ast_hash": "73f99b7f63f8baf6bcbde4f8d57fe6e7",
+    "semantic_hash": "73f99b7f63f8baf6bcbde4f8d57fe6e7"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\components.json": {
+    "mtime": 1778325191.2543542,
+    "ast_hash": "aeed0e729f26be3f5c07fa7ab1296567",
+    "semantic_hash": "aeed0e729f26be3f5c07fa7ab1296567"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\eslint.config.mjs": {
+    "mtime": 1778325191.255355,
+    "ast_hash": "58a81380da978ff8030d2ed7a5e1f42b",
+    "semantic_hash": "58a81380da978ff8030d2ed7a5e1f42b"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\knip.json": {
+    "mtime": 1778325191.255355,
+    "ast_hash": "e86873b77ead2bc9c459852ceffe5732",
+    "semantic_hash": "e86873b77ead2bc9c459852ceffe5732"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\next.config.ts": {
+    "mtime": 1778325191.255355,
+    "ast_hash": "4b064c38365816ba6d971a2b76af4c02",
+    "semantic_hash": "4b064c38365816ba6d971a2b76af4c02"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\package.json": {
+    "mtime": 1778326427.0714824,
+    "ast_hash": "86bf3ac13ff4aaaafae41bf1bbf8aa88",
+    "semantic_hash": "86bf3ac13ff4aaaafae41bf1bbf8aa88"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\postcss.config.mjs": {
+    "mtime": 1778325191.2563548,
+    "ast_hash": "0a8c5fa8885965eb3d71ee945ff2e9be",
+    "semantic_hash": "0a8c5fa8885965eb3d71ee945ff2e9be"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\public\\oneko\\oneko.js": {
+    "mtime": 1778325191.3257174,
+    "ast_hash": "8412d215ce34d2b9857558f11f5d3839",
+    "semantic_hash": "8412d215ce34d2b9857558f11f5d3839"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\scripts\\clean-next.mjs": {
+    "mtime": 1778325191.466594,
+    "ast_hash": "4df583acde4c1212d3ef7147b9382f62",
+    "semantic_hash": "4df583acde4c1212d3ef7147b9382f62"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\app\\api\\chat\\route.ts": {
+    "mtime": 1778325191.4700582,
+    "ast_hash": "ecba55a6e7e47aacfe769a76ca356d19",
+    "semantic_hash": "ecba55a6e7e47aacfe769a76ca356d19"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\app\\api\\contact\\route.ts": {
+    "mtime": 1778325191.4710586,
+    "ast_hash": "353c81d2b89b4ff2d40cd2dadc4e5e92",
+    "semantic_hash": "353c81d2b89b4ff2d40cd2dadc4e5e92"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\app\\avatar-editor\\page.tsx": {
+    "mtime": 1779780257.9661324,
+    "ast_hash": "0a827dda181f85a9ebaff4bf244d0541",
+    "semantic_hash": "0a827dda181f85a9ebaff4bf244d0541"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\app\\contact\\page.tsx": {
+    "mtime": 1778325191.4720592,
+    "ast_hash": "91e4c4b4089539715bad0cb517c335ad",
+    "semantic_hash": "91e4c4b4089539715bad0cb517c335ad"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\app\\gears\\page.tsx": {
+    "mtime": 1778325191.4720592,
+    "ast_hash": "a06dff6b3dce42351acb73c3d9a097ba",
+    "semantic_hash": "a06dff6b3dce42351acb73c3d9a097ba"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\app\\journey\\certificates\\page.tsx": {
+    "mtime": 1778325191.4744356,
+    "ast_hash": "58bad354e3c84dcd2461ee5c13caf144",
+    "semantic_hash": "58bad354e3c84dcd2461ee5c13caf144"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\app\\journey\\page.tsx": {
+    "mtime": 1778325191.4744356,
+    "ast_hash": "6b1981d8146f7cf1caad51dd1d859659",
+    "semantic_hash": "6b1981d8146f7cf1caad51dd1d859659"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\app\\layout.tsx": {
+    "mtime": 1778326163.4072585,
+    "ast_hash": "6ab7969a92b6d30d2cc5338b5e37d8fd",
+    "semantic_hash": "6ab7969a92b6d30d2cc5338b5e37d8fd"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\app\\open-source\\page.tsx": {
+    "mtime": 1778325191.4768286,
+    "ast_hash": "156880954a414759664b748719bd6532",
+    "semantic_hash": "156880954a414759664b748719bd6532"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\app\\page.tsx": {
+    "mtime": 1779779756.457393,
+    "ast_hash": "10c32309decc7569dd25d71909a02e18",
+    "semantic_hash": "10c32309decc7569dd25d71909a02e18"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\app\\projects\\[slug]\\page.tsx": {
+    "mtime": 1778325191.4788263,
+    "ast_hash": "36f89b05bf866633b73078aaf693ca48",
+    "semantic_hash": "36f89b05bf866633b73078aaf693ca48"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\app\\projects\\page.tsx": {
+    "mtime": 1778325191.4788263,
+    "ast_hash": "ce4afaef7f50776dda8a874e30e4bb19",
+    "semantic_hash": "ce4afaef7f50776dda8a874e30e4bb19"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\app\\resume\\page.tsx": {
+    "mtime": 1778325191.4798281,
+    "ast_hash": "63a10e6db109ea79a43b98454e5b46f8",
+    "semantic_hash": "63a10e6db109ea79a43b98454e5b46f8"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\app\\setup\\page.tsx": {
+    "mtime": 1778325191.4808278,
+    "ast_hash": "0461cbf8cb1f1d05b39715dfa7d8f31b",
+    "semantic_hash": "0461cbf8cb1f1d05b39715dfa7d8f31b"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\app\\work-experience\\page.tsx": {
+    "mtime": 1778325191.4822829,
+    "ast_hash": "a0ecf88d320841c008ca2ea4384f79e7",
+    "semantic_hash": "a0ecf88d320841c008ca2ea4384f79e7"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\CertificatesGallery.tsx": {
+    "mtime": 1778325191.4833524,
+    "ast_hash": "6b19914e50614c341e6a9e835eb37648",
+    "semantic_hash": "6b19914e50614c341e6a9e835eb37648"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\analytics\\UmamiAnalytics.tsx": {
+    "mtime": 1778325191.4847257,
+    "ast_hash": "12b9f1b56072dc6bdcde4288f147db63",
+    "semantic_hash": "12b9f1b56072dc6bdcde4288f147db63"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\blog\\BlogCard.tsx": {
+    "mtime": 1778325191.4847257,
+    "ast_hash": "dbe65e99fb8fee1ccbd61384f0562b4f",
+    "semantic_hash": "dbe65e99fb8fee1ccbd61384f0562b4f"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\blog\\BlogComponents.tsx": {
+    "mtime": 1778325191.485793,
+    "ast_hash": "27b9418325c8043018a885d00606fd32",
+    "semantic_hash": "27b9418325c8043018a885d00606fd32"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\blog\\BlogContent.tsx": {
+    "mtime": 1778325191.4868028,
+    "ast_hash": "64490ffdbde57cf1e2c570e746ff451f",
+    "semantic_hash": "64490ffdbde57cf1e2c570e746ff451f"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\blog\\BlogList.tsx": {
+    "mtime": 1778325191.4868028,
+    "ast_hash": "b7152124486b9ee618c3b3d60f00ad8b",
+    "semantic_hash": "b7152124486b9ee618c3b3d60f00ad8b"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\blog\\CodeCopyButton.tsx": {
+    "mtime": 1778325191.4880724,
+    "ast_hash": "5d84f1c2a8f0667f3660e0840892d2d9",
+    "semantic_hash": "5d84f1c2a8f0667f3660e0840892d2d9"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\common\\BackToTop.tsx": {
+    "mtime": 1778325191.4895306,
+    "ast_hash": "5964e2482339f875a4d7a3c1554696ea",
+    "semantic_hash": "5964e2482339f875a4d7a3c1554696ea"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\common\\ChatBubble.tsx": {
+    "mtime": 1778325191.4895306,
+    "ast_hash": "a27d2be09ccff6da145c1446719095a9",
+    "semantic_hash": "a27d2be09ccff6da145c1446719095a9"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\common\\Container.tsx": {
+    "mtime": 1778325191.4895306,
+    "ast_hash": "c15d782371b7120b98861c63de0676d5",
+    "semantic_hash": "c15d782371b7120b98861c63de0676d5"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\common\\FontSizeControls.tsx": {
+    "mtime": 1778325191.4907858,
+    "ast_hash": "8d4726a35adaf591473792e7ffda9180",
+    "semantic_hash": "8d4726a35adaf591473792e7ffda9180"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\common\\Footer.tsx": {
+    "mtime": 1778325191.4907858,
+    "ast_hash": "5dd713a74247272156a56f51830c0860",
+    "semantic_hash": "5dd713a74247272156a56f51830c0860"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\common\\Navbar.tsx": {
+    "mtime": 1778325191.4920096,
+    "ast_hash": "29341b1c2402d7c5499c1f434594ba17",
+    "semantic_hash": "29341b1c2402d7c5499c1f434594ba17"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\common\\OnekoCat.tsx": {
+    "mtime": 1778325191.4920096,
+    "ast_hash": "091ff3b51c4cd27f1259bb9349fa8d39",
+    "semantic_hash": "091ff3b51c4cd27f1259bb9349fa8d39"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\common\\Quote.tsx": {
+    "mtime": 1778325191.4934413,
+    "ast_hash": "8f8d323c6682267123d99dd0df95b8f8",
+    "semantic_hash": "8f8d323c6682267123d99dd0df95b8f8"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\common\\SectionHeading.tsx": {
+    "mtime": 1778325191.4934413,
+    "ast_hash": "a825b2365625ad94121d4dfa3342190c",
+    "semantic_hash": "a825b2365625ad94121d4dfa3342190c"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\common\\Skill.tsx": {
+    "mtime": 1778325191.4944513,
+    "ast_hash": "b9e0c8f96d0dc2d56ce207c47485077a",
+    "semantic_hash": "b9e0c8f96d0dc2d56ce207c47485077a"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\common\\ThemeProviders.tsx": {
+    "mtime": 1778325191.4944513,
+    "ast_hash": "33d7ac390390690a0dda12157811ef9e",
+    "semantic_hash": "33d7ac390390690a0dda12157811ef9e"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\common\\ThemeSwitch.tsx": {
+    "mtime": 1778325191.4956627,
+    "ast_hash": "ad812470520ae9c183ad181085460afe",
+    "semantic_hash": "ad812470520ae9c183ad181085460afe"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\common\\command-palette.tsx": {
+    "mtime": 1778325191.4967997,
+    "ast_hash": "bcc5781e01f7ebd754edbd6469c20703",
+    "semantic_hash": "bcc5781e01f7ebd754edbd6469c20703"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\contact\\ContactForm.tsx": {
+    "mtime": 1778325191.4981055,
+    "ast_hash": "47bc93dab1bfb02ed799521b167504ae",
+    "semantic_hash": "47bc93dab1bfb02ed799521b167504ae"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\experience\\ExperienceCard.tsx": {
+    "mtime": 1778325191.499115,
+    "ast_hash": "2f003f37bd1cdb22df1b27509001ef59",
+    "semantic_hash": "2f003f37bd1cdb22df1b27509001ef59"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\experience\\ExperienceList.tsx": {
+    "mtime": 1778325191.499115,
+    "ast_hash": "1a6c3b37d4d2afecb9d0caa7338afb62",
+    "semantic_hash": "1a6c3b37d4d2afecb9d0caa7338afb62"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\gears\\GearCard.tsx": {
+    "mtime": 1778325191.5005999,
+    "ast_hash": "352a02f558187c34549c62d0b7b79b8b",
+    "semantic_hash": "352a02f558187c34549c62d0b7b79b8b"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\landing\\CTA.tsx": {
+    "mtime": 1779780241.2401915,
+    "ast_hash": "5f32850be5d96e48487bf47a67253c9a",
+    "semantic_hash": "5f32850be5d96e48487bf47a67253c9a"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\landing\\Experience.tsx": {
+    "mtime": 1778325191.5019333,
+    "ast_hash": "992b503afe38a617a20e8fc6ff572006",
+    "semantic_hash": "992b503afe38a617a20e8fc6ff572006"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\landing\\Github.tsx": {
+    "mtime": 1778325191.5029452,
+    "ast_hash": "a0a0d5c88caabb2e7dbeebfdba9afe35",
+    "semantic_hash": "a0a0d5c88caabb2e7dbeebfdba9afe35"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\landing\\Hero.tsx": {
+    "mtime": 1779780234.4880753,
+    "ast_hash": "5490c337327e457d5ca76b6dde437b61",
+    "semantic_hash": "5490c337327e457d5ca76b6dde437b61"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\landing\\Journey.tsx": {
+    "mtime": 1778325191.5041115,
+    "ast_hash": "1adea3e0ca0d133bd2b6711fc7e65e5a",
+    "semantic_hash": "1adea3e0ca0d133bd2b6711fc7e65e5a"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\landing\\Projects.tsx": {
+    "mtime": 1778325191.5054653,
+    "ast_hash": "27d8f91d1bc909cb7ce655a6fbf2f4fb",
+    "semantic_hash": "27d8f91d1bc909cb7ce655a6fbf2f4fb"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\landing\\Setup.tsx": {
+    "mtime": 1778325191.5059752,
+    "ast_hash": "fe48edafdc60ad3beb02d33347c86477",
+    "semantic_hash": "fe48edafdc60ad3beb02d33347c86477"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\open-source\\OpenSourceList.tsx": {
+    "mtime": 1778325191.5070572,
+    "ast_hash": "732a051e6ebe2114c945bfc19e763140",
+    "semantic_hash": "732a051e6ebe2114c945bfc19e763140"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\profile\\ProfileImageEditor.tsx": {
+    "mtime": 1779780120.3764956,
+    "ast_hash": "3f83cfd7a3741a318e79fa687a7c0cbe",
+    "semantic_hash": "3f83cfd7a3741a318e79fa687a7c0cbe"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\projects\\ProjectComponents.tsx": {
+    "mtime": 1778325191.508576,
+    "ast_hash": "e0873cc20e4b0b3eb3b5bd6ce99e4a54",
+    "semantic_hash": "e0873cc20e4b0b3eb3b5bd6ce99e4a54"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\projects\\ProjectContent.tsx": {
+    "mtime": 1778325191.508576,
+    "ast_hash": "50e449da2085e8ab5979790bb85c8b99",
+    "semantic_hash": "50e449da2085e8ab5979790bb85c8b99"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\projects\\ProjectList.tsx": {
+    "mtime": 1778325191.5095735,
+    "ast_hash": "2818fe2d910ed630113321900278f3db",
+    "semantic_hash": "2818fe2d910ed630113321900278f3db"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\projects\\ProjectNavigation.tsx": {
+    "mtime": 1778325191.5105753,
+    "ast_hash": "e8dd3eabf4460b9b687e9ee9e7516e43",
+    "semantic_hash": "e8dd3eabf4460b9b687e9ee9e7516e43"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\projects\\ProjectsSection.tsx": {
+    "mtime": 1778325191.5115764,
+    "ast_hash": "63d8fbb97bf79d9e29d58c8301118978",
+    "semantic_hash": "63d8fbb97bf79d9e29d58c8301118978"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\svgs\\ArrowLeft.tsx": {
+    "mtime": 1778325191.5115764,
+    "ast_hash": "c5f489c2c1b4f67f4933c1f826ac0934",
+    "semantic_hash": "c5f489c2c1b4f67f4933c1f826ac0934"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\svgs\\ArrowRight.tsx": {
+    "mtime": 1778325191.5138419,
+    "ast_hash": "90ae295534aa1878f818396c467c4b8b",
+    "semantic_hash": "90ae295534aa1878f818396c467c4b8b"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\svgs\\ArrowUUpRight.tsx": {
+    "mtime": 1778325191.5138419,
+    "ast_hash": "745b0a0a450ee7379c98a19b0e0f5ccd",
+    "semantic_hash": "745b0a0a450ee7379c98a19b0e0f5ccd"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\svgs\\ArrowUpRight.tsx": {
+    "mtime": 1778325191.514574,
+    "ast_hash": "480dcbbf17195f01dba8f190d1f3dbc4",
+    "semantic_hash": "480dcbbf17195f01dba8f190d1f3dbc4"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\svgs\\CV.tsx": {
+    "mtime": 1778325191.5155737,
+    "ast_hash": "a57f81fe28fe418eef0c7207c9f13b62",
+    "semantic_hash": "a57f81fe28fe418eef0c7207c9f13b62"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\svgs\\Calender.tsx": {
+    "mtime": 1778325191.5155737,
+    "ast_hash": "4ad7e26b162ee45c125e5427de941b83",
+    "semantic_hash": "4ad7e26b162ee45c125e5427de941b83"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\svgs\\Chat.tsx": {
+    "mtime": 1778325191.5155737,
+    "ast_hash": "f815b314b263a5bae7bcd8bb33f91d85",
+    "semantic_hash": "f815b314b263a5bae7bcd8bb33f91d85"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\svgs\\ChatBubbleIcon.tsx": {
+    "mtime": 1778325191.5168507,
+    "ast_hash": "dc648e3df9ad8f1f0d016fe9953b88bd",
+    "semantic_hash": "dc648e3df9ad8f1f0d016fe9953b88bd"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\svgs\\CheckCircle.tsx": {
+    "mtime": 1778325191.5168507,
+    "ast_hash": "c23a856ce6b2b45598073e2c6179c3ea",
+    "semantic_hash": "c23a856ce6b2b45598073e2c6179c3ea"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\svgs\\Code.tsx": {
+    "mtime": 1778325191.5168507,
+    "ast_hash": "957a0bc5bb0554f30708dcfb48f9500a",
+    "semantic_hash": "957a0bc5bb0554f30708dcfb48f9500a"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\svgs\\Copied.tsx": {
+    "mtime": 1778325191.5179303,
+    "ast_hash": "1347f54a5ddcd308e47387e1c1d73b74",
+    "semantic_hash": "1347f54a5ddcd308e47387e1c1d73b74"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\svgs\\Copy.tsx": {
+    "mtime": 1778325191.5179303,
+    "ast_hash": "f26451f2749a8a2f219b5472cc385974",
+    "semantic_hash": "f26451f2749a8a2f219b5472cc385974"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\svgs\\Gear.tsx": {
+    "mtime": 1778325191.518937,
+    "ast_hash": "91af5219ba5177639a9ceeb84af6e6f7",
+    "semantic_hash": "91af5219ba5177639a9ceeb84af6e6f7"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\svgs\\Github.tsx": {
+    "mtime": 1778325191.518937,
+    "ast_hash": "3ba9014a6c86cc453940f723186f276f",
+    "semantic_hash": "3ba9014a6c86cc453940f723186f276f"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\svgs\\LinkedIn.tsx": {
+    "mtime": 1778325191.518937,
+    "ast_hash": "dc9247d532fd1cbcb0868a3c1b28d957",
+    "semantic_hash": "dc9247d532fd1cbcb0868a3c1b28d957"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\svgs\\Mail.tsx": {
+    "mtime": 1778325191.5199378,
+    "ast_hash": "79ba3e9f1ab3a8c5e6ac72b8895aa817",
+    "semantic_hash": "79ba3e9f1ab3a8c5e6ac72b8895aa817"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\svgs\\Moon.tsx": {
+    "mtime": 1778325191.5199378,
+    "ast_hash": "748cc5f88e0ae3bb96176255da7f9312",
+    "semantic_hash": "748cc5f88e0ae3bb96176255da7f9312"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\svgs\\PlayCircle.tsx": {
+    "mtime": 1778325191.5199378,
+    "ast_hash": "87f89fdceb2ca8ffac264985b7795058",
+    "semantic_hash": "87f89fdceb2ca8ffac264985b7795058"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\svgs\\SendIcon.tsx": {
+    "mtime": 1778325191.5209384,
+    "ast_hash": "9bb91b1e461d95b9c88c8ee9532f6d28",
+    "semantic_hash": "9bb91b1e461d95b9c88c8ee9532f6d28"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\svgs\\Sun.tsx": {
+    "mtime": 1778325191.5209384,
+    "ast_hash": "0c17af10bb00a0050fe393c66d15724b",
+    "semantic_hash": "0c17af10bb00a0050fe393c66d15724b"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\svgs\\Website.tsx": {
+    "mtime": 1778325191.5209384,
+    "ast_hash": "fe2a544f6bd8821bb8d26e89acbbbbb3",
+    "semantic_hash": "fe2a544f6bd8821bb8d26e89acbbbbb3"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\svgs\\X.tsx": {
+    "mtime": 1778325191.5219398,
+    "ast_hash": "3bf1edac2546854aa47de774dd5b0a94",
+    "semantic_hash": "3bf1edac2546854aa47de774dd5b0a94"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\svgs\\devices\\Headphones.tsx": {
+    "mtime": 1778325191.5219398,
+    "ast_hash": "f3625ff41e04932403d3ea14fc1dc7da",
+    "semantic_hash": "f3625ff41e04932403d3ea14fc1dc7da"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\svgs\\devices\\Keyboard.tsx": {
+    "mtime": 1778325191.5219398,
+    "ast_hash": "22899a39aa9d09d2ae8f9a892d8a66bf",
+    "semantic_hash": "22899a39aa9d09d2ae8f9a892d8a66bf"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\svgs\\devices\\Laptop.tsx": {
+    "mtime": 1778325191.522938,
+    "ast_hash": "361628e0716c455277d4c5c1c380a818",
+    "semantic_hash": "361628e0716c455277d4c5c1c380a818"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\svgs\\devices\\Monitor.tsx": {
+    "mtime": 1778325191.522938,
+    "ast_hash": "d6355c4d4ce8522620fd951021bd57a0",
+    "semantic_hash": "d6355c4d4ce8522620fd951021bd57a0"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\svgs\\devices\\Mouse.tsx": {
+    "mtime": 1778325191.5239377,
+    "ast_hash": "b2bbf0bfd5cd340b931cc0dd828b7874",
+    "semantic_hash": "b2bbf0bfd5cd340b931cc0dd828b7874"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\svgs\\devices\\Phone.tsx": {
+    "mtime": 1778325191.5249393,
+    "ast_hash": "957a183083607df1527d619fb029a9f2",
+    "semantic_hash": "957a183083607df1527d619fb029a9f2"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\technologies\\AWS.tsx": {
+    "mtime": 1778325191.5259387,
+    "ast_hash": "3bd79ec24318be4fec66956b55460332",
+    "semantic_hash": "3bd79ec24318be4fec66956b55460332"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\technologies\\Appwrite.tsx": {
+    "mtime": 1778325191.5259387,
+    "ast_hash": "af520718d17b114272ab17235520bc5b",
+    "semantic_hash": "af520718d17b114272ab17235520bc5b"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\technologies\\BootStrap.tsx": {
+    "mtime": 1778325191.5269432,
+    "ast_hash": "61ba78139bf2e496a40a5a3bcc1dbb54",
+    "semantic_hash": "61ba78139bf2e496a40a5a3bcc1dbb54"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\technologies\\Bun.tsx": {
+    "mtime": 1778325191.5279377,
+    "ast_hash": "5489de8df3e46138f9d8ee7788c736a7",
+    "semantic_hash": "5489de8df3e46138f9d8ee7788c736a7"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\technologies\\CSS.tsx": {
+    "mtime": 1778325191.52894,
+    "ast_hash": "6ee06b991bd59ffe37f344336a6ea399",
+    "semantic_hash": "6ee06b991bd59ffe37f344336a6ea399"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\technologies\\ExpressJs.tsx": {
+    "mtime": 1778325191.5299406,
+    "ast_hash": "16c66a501a6a66ecab399f2730cbaa66",
+    "semantic_hash": "16c66a501a6a66ecab399f2730cbaa66"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\technologies\\Faiss.tsx": {
+    "mtime": 1778325191.530942,
+    "ast_hash": "9ba22ba071e936cf8ab2f602c1d56089",
+    "semantic_hash": "9ba22ba071e936cf8ab2f602c1d56089"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\technologies\\Figma.tsx": {
+    "mtime": 1778325191.5319414,
+    "ast_hash": "599f2113e457645516d0e38359db6e19",
+    "semantic_hash": "599f2113e457645516d0e38359db6e19"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\technologies\\Github.tsx": {
+    "mtime": 1778325191.5332267,
+    "ast_hash": "d5bbefe18ff1b98a7180893b9c500488",
+    "semantic_hash": "d5bbefe18ff1b98a7180893b9c500488"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\technologies\\Html.tsx": {
+    "mtime": 1778325191.5342362,
+    "ast_hash": "ba38aea9043aba678565f18e49aa55bf",
+    "semantic_hash": "ba38aea9043aba678565f18e49aa55bf"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\technologies\\HuggingFace.tsx": {
+    "mtime": 1778325191.5342362,
+    "ast_hash": "42cd6db9521e3e864f7213c759938ca3",
+    "semantic_hash": "42cd6db9521e3e864f7213c759938ca3"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\technologies\\JavaScript.tsx": {
+    "mtime": 1778325191.535251,
+    "ast_hash": "2699363e273834001083e25ae463977b",
+    "semantic_hash": "2699363e273834001083e25ae463977b"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\technologies\\LangChain.tsx": {
+    "mtime": 1778325191.5362356,
+    "ast_hash": "8935377e8341416594a983668ebdd9df",
+    "semantic_hash": "8935377e8341416594a983668ebdd9df"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\technologies\\MDXIcon.tsx": {
+    "mtime": 1778325191.5362356,
+    "ast_hash": "4c0e40c0d7b8099557867caa526f6cd9",
+    "semantic_hash": "4c0e40c0d7b8099557867caa526f6cd9"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\technologies\\Mistral.tsx": {
+    "mtime": 1778325191.5372334,
+    "ast_hash": "d9a4ba8e6b2ed38718dd713c4cb36474",
+    "semantic_hash": "d9a4ba8e6b2ed38718dd713c4cb36474"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\technologies\\MongoDB.tsx": {
+    "mtime": 1778325191.5382445,
+    "ast_hash": "0891fefb38bf94f4d4741a3e7d21c895",
+    "semantic_hash": "0891fefb38bf94f4d4741a3e7d21c895"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\technologies\\Motion.tsx": {
+    "mtime": 1778325191.5382445,
+    "ast_hash": "6bd48cdfeb36b4a91442e1085258e461",
+    "semantic_hash": "6bd48cdfeb36b4a91442e1085258e461"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\technologies\\NestJs.tsx": {
+    "mtime": 1778325191.5392413,
+    "ast_hash": "06d5564738a9b79cf896f51afbd3c3d5",
+    "semantic_hash": "06d5564738a9b79cf896f51afbd3c3d5"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\technologies\\Netlify.tsx": {
+    "mtime": 1778325191.5392413,
+    "ast_hash": "ded1cb8ff760957814e5886713f13556",
+    "semantic_hash": "ded1cb8ff760957814e5886713f13556"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\technologies\\NextJs.tsx": {
+    "mtime": 1778325191.5402367,
+    "ast_hash": "cdbbc1e1f817526e97b6857b6a136017",
+    "semantic_hash": "cdbbc1e1f817526e97b6857b6a136017"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\technologies\\NodeJs.tsx": {
+    "mtime": 1778325191.5402367,
+    "ast_hash": "1e9a99ebd6456589cc92c49cae10259c",
+    "semantic_hash": "1e9a99ebd6456589cc92c49cae10259c"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\technologies\\OpenAI.tsx": {
+    "mtime": 1778325191.5412426,
+    "ast_hash": "407e2f02dc4313c005041b850f9ed0c4",
+    "semantic_hash": "407e2f02dc4313c005041b850f9ed0c4"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\technologies\\PostgreSQL.tsx": {
+    "mtime": 1778325191.5412426,
+    "ast_hash": "9e3b6b2dab0eaf9c0ec4de57af8a1912",
+    "semantic_hash": "9e3b6b2dab0eaf9c0ec4de57af8a1912"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\technologies\\Postman.tsx": {
+    "mtime": 1778325191.5422418,
+    "ast_hash": "30a7b2c71a1920da7454cabdd1188bf5",
+    "semantic_hash": "30a7b2c71a1920da7454cabdd1188bf5"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\technologies\\Prisma.tsx": {
+    "mtime": 1778325191.5422418,
+    "ast_hash": "76ae5328b8e4bddf556cee01c3dba7dc",
+    "semantic_hash": "76ae5328b8e4bddf556cee01c3dba7dc"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\technologies\\PyTorch.tsx": {
+    "mtime": 1778325191.5432339,
+    "ast_hash": "9149c5cdc4538cd912d4d1d0d3fa087b",
+    "semantic_hash": "9149c5cdc4538cd912d4d1d0d3fa087b"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\technologies\\Python.tsx": {
+    "mtime": 1778325191.5442379,
+    "ast_hash": "81d0b9f90c2e3383e04fbfb221b63b69",
+    "semantic_hash": "81d0b9f90c2e3383e04fbfb221b63b69"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\technologies\\ReactIcon.tsx": {
+    "mtime": 1778325191.5442379,
+    "ast_hash": "ee28a3658f208629e7075cb5befd8126",
+    "semantic_hash": "ee28a3658f208629e7075cb5befd8126"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\technologies\\Sanity.tsx": {
+    "mtime": 1778325191.5452363,
+    "ast_hash": "b9f4c13e7b0e520955de223dce93c4a8",
+    "semantic_hash": "b9f4c13e7b0e520955de223dce93c4a8"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\technologies\\Shadcn.tsx": {
+    "mtime": 1778325191.5452363,
+    "ast_hash": "dde3fe7c89f490c94e5e8b0002aa7b18",
+    "semantic_hash": "dde3fe7c89f490c94e5e8b0002aa7b18"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\technologies\\SocketIo.tsx": {
+    "mtime": 1778325191.5462377,
+    "ast_hash": "2078ffede500c24c0b3949b2c3feb53e",
+    "semantic_hash": "2078ffede500c24c0b3949b2c3feb53e"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\technologies\\TailwindCss.tsx": {
+    "mtime": 1778325191.5462377,
+    "ast_hash": "eaa30a4e85169e367c583787410dc647",
+    "semantic_hash": "eaa30a4e85169e367c583787410dc647"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\technologies\\ThreeJs.tsx": {
+    "mtime": 1778325191.5462377,
+    "ast_hash": "63e23a790a80baeb40ed3125299625b5",
+    "semantic_hash": "63e23a790a80baeb40ed3125299625b5"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\technologies\\TypeScript.tsx": {
+    "mtime": 1778325191.547239,
+    "ast_hash": "609f695a02ab52aeab370f939b0a23cd",
+    "semantic_hash": "609f695a02ab52aeab370f939b0a23cd"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\technologies\\Vercel.tsx": {
+    "mtime": 1778325191.547239,
+    "ast_hash": "9d784935e3cff3eb116ada7f4f1be54a",
+    "semantic_hash": "9d784935e3cff3eb116ada7f4f1be54a"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\ui\\accordion.tsx": {
+    "mtime": 1778325191.548236,
+    "ast_hash": "c37b5d1a727b52fe2ba4e7f5dae3f5e8",
+    "semantic_hash": "c37b5d1a727b52fe2ba4e7f5dae3f5e8"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\ui\\alert-dialog.tsx": {
+    "mtime": 1778325191.5492406,
+    "ast_hash": "8843176f16a6fde3092cbe161a91a47a",
+    "semantic_hash": "8843176f16a6fde3092cbe161a91a47a"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\ui\\alert.tsx": {
+    "mtime": 1778325191.5492406,
+    "ast_hash": "cd9d46d0c6430538887f0ad125d62218",
+    "semantic_hash": "cd9d46d0c6430538887f0ad125d62218"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\ui\\aspect-ratio.tsx": {
+    "mtime": 1778325191.5492406,
+    "ast_hash": "2fb33f52bcb463ac387c79813bd5faab",
+    "semantic_hash": "2fb33f52bcb463ac387c79813bd5faab"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\ui\\avatar.tsx": {
+    "mtime": 1778325191.5502336,
+    "ast_hash": "5fbaf5cbae2a68461f99b0af75ac726f",
+    "semantic_hash": "5fbaf5cbae2a68461f99b0af75ac726f"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\ui\\badge.tsx": {
+    "mtime": 1778325191.5502336,
+    "ast_hash": "2d7607ec0b3378cf454b361d9c03e330",
+    "semantic_hash": "2d7607ec0b3378cf454b361d9c03e330"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\ui\\breadcrumb.tsx": {
+    "mtime": 1778325191.5512397,
+    "ast_hash": "c48cd657fde457b9fd5523def6df30b0",
+    "semantic_hash": "c48cd657fde457b9fd5523def6df30b0"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\ui\\button.tsx": {
+    "mtime": 1778325191.5512397,
+    "ast_hash": "67a256eaae05e5a422ee2bb45f0ef46e",
+    "semantic_hash": "67a256eaae05e5a422ee2bb45f0ef46e"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\ui\\calendar.tsx": {
+    "mtime": 1778325191.5512397,
+    "ast_hash": "3aef5090d154a59dd4e6de8672123ebd",
+    "semantic_hash": "3aef5090d154a59dd4e6de8672123ebd"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\ui\\card.tsx": {
+    "mtime": 1778325191.552599,
+    "ast_hash": "67198b2ae4ee3c00ac21681aea66b4c2",
+    "semantic_hash": "67198b2ae4ee3c00ac21681aea66b4c2"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\ui\\carousel.tsx": {
+    "mtime": 1778325191.552599,
+    "ast_hash": "ca2460991782cdfbc149ba42dd23ac67",
+    "semantic_hash": "ca2460991782cdfbc149ba42dd23ac67"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\ui\\checkbox.tsx": {
+    "mtime": 1778325191.552599,
+    "ast_hash": "dfe6951506c86a3c65dd860e0b30a95b",
+    "semantic_hash": "dfe6951506c86a3c65dd860e0b30a95b"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\ui\\collapsible.tsx": {
+    "mtime": 1778325191.552599,
+    "ast_hash": "8e62ba5eb0770b26e1e5b3f6de76b4d9",
+    "semantic_hash": "8e62ba5eb0770b26e1e5b3f6de76b4d9"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\ui\\command.tsx": {
+    "mtime": 1778325191.5539317,
+    "ast_hash": "00ee7cbb513238b8892d74887beba384",
+    "semantic_hash": "00ee7cbb513238b8892d74887beba384"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\ui\\context-menu.tsx": {
+    "mtime": 1778325191.5549414,
+    "ast_hash": "82d90b717c3f44a28987bea6a310ae60",
+    "semantic_hash": "82d90b717c3f44a28987bea6a310ae60"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\ui\\dialog.tsx": {
+    "mtime": 1778325191.5549414,
+    "ast_hash": "e7b0ce2f4716028a904da487fa719451",
+    "semantic_hash": "e7b0ce2f4716028a904da487fa719451"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\ui\\drawer.tsx": {
+    "mtime": 1778325191.5559366,
+    "ast_hash": "b92dd3570b84284614447456d67acd41",
+    "semantic_hash": "b92dd3570b84284614447456d67acd41"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\ui\\dropdown-menu.tsx": {
+    "mtime": 1778325191.5569382,
+    "ast_hash": "44cb8a43a6be1faa85ed6982c398016d",
+    "semantic_hash": "44cb8a43a6be1faa85ed6982c398016d"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\ui\\expandable-chat.tsx": {
+    "mtime": 1778325191.5569382,
+    "ast_hash": "d6bf41f82dd47921330d2d1e31465125",
+    "semantic_hash": "d6bf41f82dd47921330d2d1e31465125"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\ui\\form.tsx": {
+    "mtime": 1778325191.5569382,
+    "ast_hash": "9562777b02722a02b3ba965632f7189a",
+    "semantic_hash": "9562777b02722a02b3ba965632f7189a"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\ui\\hover-card.tsx": {
+    "mtime": 1778325191.5579414,
+    "ast_hash": "ae9f31fab20f30eec25c0bd7a5915aab",
+    "semantic_hash": "ae9f31fab20f30eec25c0bd7a5915aab"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\ui\\input-otp.tsx": {
+    "mtime": 1778325191.5579414,
+    "ast_hash": "7a2d1362e885acc0aa9641c92581fccf",
+    "semantic_hash": "7a2d1362e885acc0aa9641c92581fccf"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\ui\\input.tsx": {
+    "mtime": 1778325191.558939,
+    "ast_hash": "2080c62ec3708a1ae3f37605095bbe25",
+    "semantic_hash": "2080c62ec3708a1ae3f37605095bbe25"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\ui\\label.tsx": {
+    "mtime": 1778325191.558939,
+    "ast_hash": "4fcc2593c650538c62148571d32377b3",
+    "semantic_hash": "4fcc2593c650538c62148571d32377b3"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\ui\\menubar.tsx": {
+    "mtime": 1778325191.559943,
+    "ast_hash": "d2191262e12dadadd7290621f34efc0c",
+    "semantic_hash": "d2191262e12dadadd7290621f34efc0c"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\ui\\navigation-menu.tsx": {
+    "mtime": 1778325191.559943,
+    "ast_hash": "14bd725a3bcbcd67cd0905bd02d8805a",
+    "semantic_hash": "14bd725a3bcbcd67cd0905bd02d8805a"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\ui\\pagination.tsx": {
+    "mtime": 1778325191.5609372,
+    "ast_hash": "a7b1ed0a63e2026a07854b1b7b5d9b1b",
+    "semantic_hash": "a7b1ed0a63e2026a07854b1b7b5d9b1b"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\ui\\popover.tsx": {
+    "mtime": 1778325191.5619397,
+    "ast_hash": "668f1557a4453294bfcc53c85e036541",
+    "semantic_hash": "668f1557a4453294bfcc53c85e036541"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\ui\\progress.tsx": {
+    "mtime": 1778325191.5619397,
+    "ast_hash": "a62f51dfbeb1f1f33638c0b19c8b1a97",
+    "semantic_hash": "a62f51dfbeb1f1f33638c0b19c8b1a97"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\ui\\radio-group.tsx": {
+    "mtime": 1778325191.562946,
+    "ast_hash": "cb3638c7059d513a354e389ef8c0f2bf",
+    "semantic_hash": "cb3638c7059d513a354e389ef8c0f2bf"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\ui\\resizable.tsx": {
+    "mtime": 1778325191.562946,
+    "ast_hash": "8e32e3e91e7be27f1c60f388f05735fa",
+    "semantic_hash": "8e32e3e91e7be27f1c60f388f05735fa"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\ui\\scroll-area.tsx": {
+    "mtime": 1778325191.5639427,
+    "ast_hash": "038959d70ee3c0c680be7c1d3b6589cc",
+    "semantic_hash": "038959d70ee3c0c680be7c1d3b6589cc"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\ui\\select.tsx": {
+    "mtime": 1778325191.5649376,
+    "ast_hash": "31e90e3f3154840bdfd5f1f858fcf227",
+    "semantic_hash": "31e90e3f3154840bdfd5f1f858fcf227"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\ui\\separator.tsx": {
+    "mtime": 1778325191.5649376,
+    "ast_hash": "e6b9300287ebf96eae68da58ad7a3f80",
+    "semantic_hash": "e6b9300287ebf96eae68da58ad7a3f80"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\ui\\sheet.tsx": {
+    "mtime": 1778325191.5649376,
+    "ast_hash": "70891bd3a5d6d61bcf024400302e29b3",
+    "semantic_hash": "70891bd3a5d6d61bcf024400302e29b3"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\ui\\sidebar.tsx": {
+    "mtime": 1778325191.5659394,
+    "ast_hash": "bc1bf9544ae63eecc32ca6168f6dc695",
+    "semantic_hash": "bc1bf9544ae63eecc32ca6168f6dc695"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\ui\\skeleton.tsx": {
+    "mtime": 1778325191.5664577,
+    "ast_hash": "fbc14f3b1379ab475f106b211ace761c",
+    "semantic_hash": "fbc14f3b1379ab475f106b211ace761c"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\ui\\slider.tsx": {
+    "mtime": 1778325191.5664577,
+    "ast_hash": "4c0c20c863c23be0044e3250239766f8",
+    "semantic_hash": "4c0c20c863c23be0044e3250239766f8"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\ui\\sonner.tsx": {
+    "mtime": 1778325191.567469,
+    "ast_hash": "56b6a718defb04b71f740d50bf9fb268",
+    "semantic_hash": "56b6a718defb04b71f740d50bf9fb268"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\ui\\switch.tsx": {
+    "mtime": 1778325191.567469,
+    "ast_hash": "33d3a9f59eb4bf67de9375600757d814",
+    "semantic_hash": "33d3a9f59eb4bf67de9375600757d814"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\ui\\table.tsx": {
+    "mtime": 1778325191.5684676,
+    "ast_hash": "b88a2a656dca151fac12d3f309e94580",
+    "semantic_hash": "b88a2a656dca151fac12d3f309e94580"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\ui\\tabs.tsx": {
+    "mtime": 1778325191.5684676,
+    "ast_hash": "f990296d6b6b808d8e0827912b31db29",
+    "semantic_hash": "f990296d6b6b808d8e0827912b31db29"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\ui\\textarea.tsx": {
+    "mtime": 1778325191.5694692,
+    "ast_hash": "7e7cef69393cd2bc974ba171952d927a",
+    "semantic_hash": "7e7cef69393cd2bc974ba171952d927a"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\ui\\toggle-group.tsx": {
+    "mtime": 1778325191.5694692,
+    "ast_hash": "ad4b0237149adb363003850cd6b70779",
+    "semantic_hash": "ad4b0237149adb363003850cd6b70779"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\ui\\toggle.tsx": {
+    "mtime": 1778325191.5694692,
+    "ast_hash": "ce4ccd1c9f692e010294162e77f80ecd",
+    "semantic_hash": "ce4ccd1c9f692e010294162e77f80ecd"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\ui\\tooltip.tsx": {
+    "mtime": 1778325191.5704708,
+    "ast_hash": "0e01943310ed8ff5f647e5419ebd93d2",
+    "semantic_hash": "0e01943310ed8ff5f647e5419ebd93d2"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\config\\About.tsx": {
+    "mtime": 1778325191.5704708,
+    "ast_hash": "69621a8c2e2134369e8bc091fb41e0a0",
+    "semantic_hash": "69621a8c2e2134369e8bc091fb41e0a0"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\config\\Achievements.tsx": {
+    "mtime": 1778325191.5714686,
+    "ast_hash": "2f21b98e56cbe9e28cbfd202326afbd4",
+    "semantic_hash": "2f21b98e56cbe9e28cbfd202326afbd4"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\config\\CTA.tsx": {
+    "mtime": 1779780345.3594534,
+    "ast_hash": "65223a752eeee877edbfcb24df7eba9d",
+    "semantic_hash": "65223a752eeee877edbfcb24df7eba9d"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\config\\Cat.ts": {
+    "mtime": 1778325191.5724683,
+    "ast_hash": "ff8685f5fd1b4fae61a029fb8a7bde29",
+    "semantic_hash": "ff8685f5fd1b4fae61a029fb8a7bde29"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\config\\ChatPrompt.ts": {
+    "mtime": 1779779833.6431317,
+    "ast_hash": "771a991f7c0fc01e82bc74787e5331e8",
+    "semantic_hash": "771a991f7c0fc01e82bc74787e5331e8"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\config\\Contact.tsx": {
+    "mtime": 1778325191.573469,
+    "ast_hash": "ae0b85f915cdffa4ca300ff7aac0ba76",
+    "semantic_hash": "ae0b85f915cdffa4ca300ff7aac0ba76"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\config\\Experience.tsx": {
+    "mtime": 1778325191.573469,
+    "ast_hash": "c0b70a07338499197bcae3e5cfa8a091",
+    "semantic_hash": "c0b70a07338499197bcae3e5cfa8a091"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\config\\Footer.tsx": {
+    "mtime": 1778325191.573469,
+    "ast_hash": "e456af9f0e261f3da802041f136c5622",
+    "semantic_hash": "e456af9f0e261f3da802041f136c5622"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\config\\Gears.tsx": {
+    "mtime": 1778325191.5744689,
+    "ast_hash": "7d52576270c0f7a379d033b9ed4dd9f3",
+    "semantic_hash": "7d52576270c0f7a379d033b9ed4dd9f3"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\config\\Github.tsx": {
+    "mtime": 1778325191.5744689,
+    "ast_hash": "a7b21f2c3181da723497b3512e43365f",
+    "semantic_hash": "a7b21f2c3181da723497b3512e43365f"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\config\\Hero.tsx": {
+    "mtime": 1778325191.5754697,
+    "ast_hash": "f6fe6baef9c3414d782dea2ac6604cfa",
+    "semantic_hash": "f6fe6baef9c3414d782dea2ac6604cfa"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\config\\Journey.tsx": {
+    "mtime": 1779779760.8550558,
+    "ast_hash": "dfc0d301230a0ca28a74f69a980a9120",
+    "semantic_hash": "dfc0d301230a0ca28a74f69a980a9120"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\config\\Meta.tsx": {
+    "mtime": 1779779836.6751077,
+    "ast_hash": "07cfad3883f8511273b1dd799f7ab6ac",
+    "semantic_hash": "07cfad3883f8511273b1dd799f7ab6ac"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\config\\Navbar.tsx": {
+    "mtime": 1778325191.5764658,
+    "ast_hash": "56f203865f286915fd60d974e1ac89ca",
+    "semantic_hash": "56f203865f286915fd60d974e1ac89ca"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\config\\OpenSource.tsx": {
+    "mtime": 1778325191.5764658,
+    "ast_hash": "d9490873dd3f3391fe55a848552782cf",
+    "semantic_hash": "d9490873dd3f3391fe55a848552782cf"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\config\\Projects.tsx": {
+    "mtime": 1778325191.5776205,
+    "ast_hash": "3c9240daa1e63352c7d7f79599938647",
+    "semantic_hash": "3c9240daa1e63352c7d7f79599938647"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\config\\Quote.ts": {
+    "mtime": 1778325191.5776205,
+    "ast_hash": "c10f9a538ab2902ec16daf6d48076a91",
+    "semantic_hash": "c10f9a538ab2902ec16daf6d48076a91"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\config\\Resume.ts": {
+    "mtime": 1778325191.5776205,
+    "ast_hash": "137ea66a9107cca9625f1a873358db17",
+    "semantic_hash": "137ea66a9107cca9625f1a873358db17"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\config\\Setup.tsx": {
+    "mtime": 1778325191.5786278,
+    "ast_hash": "fbb611d8e6669c6f19454a2a62ea937e",
+    "semantic_hash": "fbb611d8e6669c6f19454a2a62ea937e"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\config\\about-data.ts": {
+    "mtime": 1778325191.5786278,
+    "ast_hash": "df61d0e45cef3c2b0813f38f4fcbb09c",
+    "semantic_hash": "df61d0e45cef3c2b0813f38f4fcbb09c"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\config\\experience-base.ts": {
+    "mtime": 1779779830.0046155,
+    "ast_hash": "ed6bc99006e8fa56f02fa1efc2ddfab4",
+    "semantic_hash": "ed6bc99006e8fa56f02fa1efc2ddfab4"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\config\\hero-data.ts": {
+    "mtime": 1779780218.3657653,
+    "ast_hash": "745d62b780cafc279562ddfc8bd562c7",
+    "semantic_hash": "745d62b780cafc279562ddfc8bd562c7"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\config\\projects-base.ts": {
+    "mtime": 1778325191.5796337,
+    "ast_hash": "2356401b21471a3858c6802dfef86a01",
+    "semantic_hash": "2356401b21471a3858c6802dfef86a01"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\config\\quote-by-route.ts": {
+    "mtime": 1778325191.5806284,
+    "ast_hash": "f35aea18a9c891079f55dfd07e1a7cd6",
+    "semantic_hash": "f35aea18a9c891079f55dfd07e1a7cd6"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\hooks\\use-haptic-feedback.ts": {
+    "mtime": 1778325191.5926852,
+    "ast_hash": "5571a382efef5be6d8ee839a23f7090a",
+    "semantic_hash": "5571a382efef5be6d8ee839a23f7090a"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\hooks\\use-mobile.ts": {
+    "mtime": 1778325191.5936809,
+    "ast_hash": "e6216e38463181f71d2ee0c93aec1f93",
+    "semantic_hash": "e6216e38463181f71d2ee0c93aec1f93"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\hooks\\use-umami.ts": {
+    "mtime": 1778325191.5936809,
+    "ast_hash": "9d183f74fce25c2cff3f1eb7e11517f2",
+    "semantic_hash": "9d183f74fce25c2cff3f1eb7e11517f2"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\lib\\blog.ts": {
+    "mtime": 1778325191.5946789,
+    "ast_hash": "fe9ac3ffc018021ec228cbedb28f363c",
+    "semantic_hash": "fe9ac3ffc018021ec228cbedb28f363c"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\lib\\hero.ts": {
+    "mtime": 1778325191.5956824,
+    "ast_hash": "3390c7dc2ea56240b3c091a9e0d4e9e4",
+    "semantic_hash": "3390c7dc2ea56240b3c091a9e0d4e9e4"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\lib\\journey.ts": {
+    "mtime": 1778325191.596682,
+    "ast_hash": "64b6186b289cb151b7ba31f686f2ab49",
+    "semantic_hash": "64b6186b289cb151b7ba31f686f2ab49"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\lib\\lenis.ts": {
+    "mtime": 1778325191.596682,
+    "ast_hash": "c299f696e3470622d1e5be464cb776e8",
+    "semantic_hash": "c299f696e3470622d1e5be464cb776e8"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\lib\\project.ts": {
+    "mtime": 1778325191.5976868,
+    "ast_hash": "3d02f79d53d266b9e5ac08a687f0c17d",
+    "semantic_hash": "3d02f79d53d266b9e5ac08a687f0c17d"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\lib\\utils.ts": {
+    "mtime": 1778325191.5976868,
+    "ast_hash": "a04f8d04422001647c72c8675f5c2359",
+    "semantic_hash": "a04f8d04422001647c72c8675f5c2359"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\types\\analytics.ts": {
+    "mtime": 1778325191.5986793,
+    "ast_hash": "c539d39b4ceb46bb969d4b619a026718",
+    "semantic_hash": "c539d39b4ceb46bb969d4b619a026718"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\types\\blog.ts": {
+    "mtime": 1778325191.5986793,
+    "ast_hash": "f2b2a21bdee5fe89ae9197e481485a78",
+    "semantic_hash": "f2b2a21bdee5fe89ae9197e481485a78"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\types\\project.ts": {
+    "mtime": 1778325191.5996795,
+    "ast_hash": "36543913ac627fa36231e884615dae0b",
+    "semantic_hash": "36543913ac627fa36231e884615dae0b"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\validate\\testTelegram.ts": {
+    "mtime": 1778325191.600681,
+    "ast_hash": "c3c1645d48661f87e1e9bd6ffa283841",
+    "semantic_hash": "c3c1645d48661f87e1e9bd6ffa283841"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\tsconfig.json": {
+    "mtime": 1778326626.9225824,
+    "ast_hash": "8b137bda6cbf3132e2e7d8198173926c",
+    "semantic_hash": "8b137bda6cbf3132e2e7d8198173926c"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\.github\\workflow\\lint.yml": {
+    "mtime": 1778325191.2481368,
+    "ast_hash": "14a43b9e03ad3e68f332e14e536b2ef9",
+    "semantic_hash": "14a43b9e03ad3e68f332e14e536b2ef9"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\README.md": {
+    "mtime": 1778325191.251354,
+    "ast_hash": "81051bcc2cf1bedf378224b0a93e2877",
+    "semantic_hash": "81051bcc2cf1bedf378224b0a93e2877"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\public\\setup\\vsc-extensions.txt": {
+    "mtime": 1778325191.4605784,
+    "ast_hash": "eb9a42c37e8d6af2009d23ca7afc1cdd",
+    "semantic_hash": "eb9a42c37e8d6af2009d23ca7afc1cdd"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\data\\blog\\better-frontend-part-1.mdx": {
+    "mtime": 1778325191.581629,
+    "ast_hash": "4b2b6e7f15fc756a156932bef8fe28ae",
+    "semantic_hash": "4b2b6e7f15fc756a156932bef8fe28ae"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\data\\blog\\how-to-be-me.mdx": {
+    "mtime": 1778325191.58263,
+    "ast_hash": "a05f344da9bc122403b24c558746f965",
+    "semantic_hash": "a05f344da9bc122403b24c558746f965"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\data\\blog\\javascript-for-frontend-part-1.mdx": {
+    "mtime": 1778325191.583632,
+    "ast_hash": "657f24ecb16219ab8c910d4705669415",
+    "semantic_hash": "657f24ecb16219ab8c910d4705669415"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\data\\blog\\nextjs-data-fetching.mdx": {
+    "mtime": 1778325191.583632,
+    "ast_hash": "0eeab75103046b98bb97f18ca0362e63",
+    "semantic_hash": "0eeab75103046b98bb97f18ca0362e63"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\data\\blog\\routing-in-nextjs.mdx": {
+    "mtime": 1778325191.5846283,
+    "ast_hash": "b146f4cbd84f2c87c22229c1df2c2026",
+    "semantic_hash": "b146f4cbd84f2c87c22229c1df2c2026"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\data\\journey\\journey.mdx": {
+    "mtime": 1778325191.5856278,
+    "ast_hash": "75e0974a3f0fc58fd4d9a9cca6f40a10",
+    "semantic_hash": "75e0974a3f0fc58fd4d9a9cca6f40a10"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\data\\projects\\appwrite-mcp-server.mdx": {
+    "mtime": 1778325191.5856278,
+    "ast_hash": "015be1752cf6c8025f422641cd5af5ce",
+    "semantic_hash": "015be1752cf6c8025f422641cd5af5ce"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\data\\projects\\chill-guy.mdx": {
+    "mtime": 1778325191.5866358,
+    "ast_hash": "b161a8e3006b31e35abec47b8cf9b75b",
+    "semantic_hash": "b161a8e3006b31e35abec47b8cf9b75b"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\data\\projects\\fest-x.mdx": {
+    "mtime": 1778325191.5866358,
+    "ast_hash": "315c7c98e0db9bfb4bba93b9aeda41e8",
+    "semantic_hash": "315c7c98e0db9bfb4bba93b9aeda41e8"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\data\\projects\\intent-js.mdx": {
+    "mtime": 1778325191.5876749,
+    "ast_hash": "211080b5caab1f65365717cd5134e1f4",
+    "semantic_hash": "211080b5caab1f65365717cd5134e1f4"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\data\\projects\\moonstone-fest.mdx": {
+    "mtime": 1778325191.5876749,
+    "ast_hash": "cd1bce42eb63f85fca0c6ea1ea56a1f1",
+    "semantic_hash": "cd1bce42eb63f85fca0c6ea1ea56a1f1"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\data\\projects\\notesbuddy.mdx": {
+    "mtime": 1778325191.5886798,
+    "ast_hash": "68aa3e916de7ef2d4c8338320b4b7d16",
+    "semantic_hash": "68aa3e916de7ef2d4c8338320b4b7d16"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\data\\projects\\pasandida-aurat.mdx": {
+    "mtime": 1778325191.5886798,
+    "ast_hash": "5c45a5f16387ce36ac0ed27ea3ec570c",
+    "semantic_hash": "5c45a5f16387ce36ac0ed27ea3ec570c"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\data\\projects\\poems-blog.mdx": {
+    "mtime": 1778325191.5896811,
+    "ast_hash": "db2283f530f89f3080d05bc970819347",
+    "semantic_hash": "db2283f530f89f3080d05bc970819347"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\data\\projects\\syncify.mdx": {
+    "mtime": 1778325191.590684,
+    "ast_hash": "72e63ac7e2c2fcd31c934ca58600d578",
+    "semantic_hash": "72e63ac7e2c2fcd31c934ca58600d578"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\data\\projects\\that-startup.mdx": {
+    "mtime": 1778325191.5916834,
+    "ast_hash": "89808d148ce88bac2944acd351f39d84",
+    "semantic_hash": "89808d148ce88bac2944acd351f39d84"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\data\\projects\\the-quest.mdx": {
+    "mtime": 1778325191.5916834,
+    "ast_hash": "d6048b921cf6bcdcbc710065d2a7a62b",
+    "semantic_hash": "d6048b921cf6bcdcbc710065d2a7a62b"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\data\\projects\\valorant-remastered.mdx": {
+    "mtime": 1778325191.5926852,
+    "ast_hash": "6a5e920c050d1bdb0b879cfa505daea7",
+    "semantic_hash": "6a5e920c050d1bdb0b879cfa505daea7"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\public\\dushyant-resume.pdf": {
+    "mtime": 1782399656.7959077,
+    "ast_hash": "754b5b6ca596f828f977d0be985f9e34",
+    "semantic_hash": "754b5b6ca596f828f977d0be985f9e34"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\WhatsApp Image 2025-05-10 at 20.50.26_89d2c815.jpg": {
+    "mtime": 1746890428.885794,
+    "ast_hash": "fcc5d5b88a1194242a4e6af3a09b8052",
+    "semantic_hash": "fcc5d5b88a1194242a4e6af3a09b8052"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\public\\assets\\logo.png": {
+    "mtime": 1778325191.2603543,
+    "ast_hash": "671821f966962f0d1171f3d04f376ad2",
+    "semantic_hash": "671821f966962f0d1171f3d04f376ad2"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\public\\assets\\profile.jpg": {
+    "mtime": 1779779990.0734382,
+    "ast_hash": "fcc5d5b88a1194242a4e6af3a09b8052",
+    "semantic_hash": "fcc5d5b88a1194242a4e6af3a09b8052"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\public\\assets\\profile.png": {
+    "mtime": 1779779961.6974342,
+    "ast_hash": "afbb0cb4e8937d887b3d8ff5e58d6786",
+    "semantic_hash": "afbb0cb4e8937d887b3d8ff5e58d6786"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\public\\blog\\first-portfolio.png": {
+    "mtime": 1778325191.2633567,
+    "ast_hash": "fc94623fec42e9f56125f86c756a480b",
+    "semantic_hash": "fc94623fec42e9f56125f86c756a480b"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\public\\blog\\frontend-part-1.png": {
+    "mtime": 1778325191.2728786,
+    "ast_hash": "110fca34f4bd7e92fdec14d51b8864e3",
+    "semantic_hash": "110fca34f4bd7e92fdec14d51b8864e3"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\public\\blog\\how-to-be-me.png": {
+    "mtime": 1778325191.2818725,
+    "ast_hash": "a81c857ea77a98f182cb582ce29bb721",
+    "semantic_hash": "a81c857ea77a98f182cb582ce29bb721"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\public\\blog\\javascript-part-1.png": {
+    "mtime": 1778325191.286974,
+    "ast_hash": "8e875f499c278529314d55aa40b6aef9",
+    "semantic_hash": "8e875f499c278529314d55aa40b6aef9"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\public\\blog\\mac.jpeg": {
+    "mtime": 1778325191.2879894,
+    "ast_hash": "a162cc9f71c2f0d9ee3b2f794105a23c",
+    "semantic_hash": "a162cc9f71c2f0d9ee3b2f794105a23c"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\public\\blog\\nextjs-data-fetching.png": {
+    "mtime": 1778325191.294977,
+    "ast_hash": "d6c43250b6156b3ecef913f6ee5324e3",
+    "semantic_hash": "d6c43250b6156b3ecef913f6ee5324e3"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\public\\blog\\routing-in-nextjs.png": {
+    "mtime": 1778325191.2969172,
+    "ast_hash": "2c37b0f6263af9be310d0d4c568096f5",
+    "semantic_hash": "2c37b0f6263af9be310d0d4c568096f5"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\public\\blog\\ticktick-side.png": {
+    "mtime": 1778325191.2979758,
+    "ast_hash": "487d3d85bbf03b8f3c363f9f605edef5",
+    "semantic_hash": "487d3d85bbf03b8f3c363f9f605edef5"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\public\\blog\\time.png": {
+    "mtime": 1778325191.2989178,
+    "ast_hash": "adef9355173dfe456c82f33ca6bcadf4",
+    "semantic_hash": "adef9355173dfe456c82f33ca6bcadf4"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\public\\blog\\work-in-clg.jpeg": {
+    "mtime": 1778325191.2989178,
+    "ast_hash": "632c05e00d71808f86b23e35601e0ae8",
+    "semantic_hash": "632c05e00d71808f86b23e35601e0ae8"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\public\\blog\\workspace.png": {
+    "mtime": 1778325191.3038726,
+    "ast_hash": "a270f13b7d3369bd7318e84cc040f37b",
+    "semantic_hash": "a270f13b7d3369bd7318e84cc040f37b"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\public\\company\\expelee.png": {
+    "mtime": 1778325191.3038726,
+    "ast_hash": "b9dde1041aa808cb45bfdd5bd03f37e5",
+    "semantic_hash": "b9dde1041aa808cb45bfdd5bd03f37e5"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\public\\company\\loop.png": {
+    "mtime": 1778325191.304873,
+    "ast_hash": "6c5ef5bf92def0f023977532e6eb00c2",
+    "semantic_hash": "6c5ef5bf92def0f023977532e6eb00c2"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\public\\company\\prepeasy.png": {
+    "mtime": 1778325191.304873,
+    "ast_hash": "d0ca9a7ed258494fa156e70fd935752b",
+    "semantic_hash": "d0ca9a7ed258494fa156e70fd935752b"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\public\\company\\promote.png": {
+    "mtime": 1778325191.30588,
+    "ast_hash": "fe5fcad975b5cfc1cf9f0a6a3e19a040",
+    "semantic_hash": "fe5fcad975b5cfc1cf9f0a6a3e19a040"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\public\\company\\upsurge.png": {
+    "mtime": 1778325191.30588,
+    "ast_hash": "cd71edc7e90241cffa9d127bb07653e4",
+    "semantic_hash": "cd71edc7e90241cffa9d127bb07653e4"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\public\\meta\\blogs.png": {
+    "mtime": 1778325191.313696,
+    "ast_hash": "31b2b45162013bcad6412b29db5acee8",
+    "semantic_hash": "31b2b45162013bcad6412b29db5acee8"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\public\\meta\\contact.png": {
+    "mtime": 1778325191.3146963,
+    "ast_hash": "61ce75cdb1c842f4b43f9fb220b2c114",
+    "semantic_hash": "61ce75cdb1c842f4b43f9fb220b2c114"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\public\\meta\\gears.png": {
+    "mtime": 1778325191.315696,
+    "ast_hash": "1595b0a717420ae1137f282b66073cea",
+    "semantic_hash": "1595b0a717420ae1137f282b66073cea"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\public\\meta\\hero.png": {
+    "mtime": 1778325191.3166974,
+    "ast_hash": "a69dfcf05e08d2124b90ecd3d6c02cb5",
+    "semantic_hash": "a69dfcf05e08d2124b90ecd3d6c02cb5"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\public\\meta\\opengraph-image.png": {
+    "mtime": 1778325191.3186963,
+    "ast_hash": "3966d8705ae7d2fbda2a155dba1772d0",
+    "semantic_hash": "3966d8705ae7d2fbda2a155dba1772d0"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\public\\meta\\projects.png": {
+    "mtime": 1778325191.3206952,
+    "ast_hash": "03b781579e3e7c0427d44018afd25e7f",
+    "semantic_hash": "03b781579e3e7c0427d44018afd25e7f"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\public\\meta\\resume.png": {
+    "mtime": 1778325191.321696,
+    "ast_hash": "dde691e50f4da3015a987e81de3a4a11",
+    "semantic_hash": "dde691e50f4da3015a987e81de3a4a11"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\public\\meta\\setup.png": {
+    "mtime": 1778325191.3226962,
+    "ast_hash": "082613728c42eb9eedadae1fc699dbe9",
+    "semantic_hash": "082613728c42eb9eedadae1fc699dbe9"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\public\\meta\\work.png": {
+    "mtime": 1778325191.3236964,
+    "ast_hash": "cebcbfcf0fdb3a5872729f41f86888ac",
+    "semantic_hash": "cebcbfcf0fdb3a5872729f41f86888ac"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\public\\oneko\\oneko.gif": {
+    "mtime": 1778325191.3257174,
+    "ast_hash": "4c5537784531d8ee7ef0316cf7c04c4d",
+    "semantic_hash": "4c5537784531d8ee7ef0316cf7c04c4d"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\public\\project\\advice.png": {
+    "mtime": 1778325191.332703,
+    "ast_hash": "00081de0330f2dd88d87ea961682ee88",
+    "semantic_hash": "00081de0330f2dd88d87ea961682ee88"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\public\\project\\appwrite.png": {
+    "mtime": 1778325191.3406985,
+    "ast_hash": "f9fa36b8455e08b1bc28d68022e29783",
+    "semantic_hash": "f9fa36b8455e08b1bc28d68022e29783"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\public\\project\\chillguy.png": {
+    "mtime": 1778325191.3506992,
+    "ast_hash": "67fb7901547acdd551b6e1b98d1e187d",
+    "semantic_hash": "67fb7901547acdd551b6e1b98d1e187d"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\public\\project\\festx.png": {
+    "mtime": 1778325191.3597012,
+    "ast_hash": "e400db0d5b44a7dde501e00ec51bd619",
+    "semantic_hash": "e400db0d5b44a7dde501e00ec51bd619"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\public\\project\\intent.png": {
+    "mtime": 1778325191.3682082,
+    "ast_hash": "4cf9ffacad2aaa398a1d6bc9add3dab2",
+    "semantic_hash": "4cf9ffacad2aaa398a1d6bc9add3dab2"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\public\\project\\moonstone.png": {
+    "mtime": 1778325191.375231,
+    "ast_hash": "b478a825e5b80cd3e826a9ee6289ccce",
+    "semantic_hash": "b478a825e5b80cd3e826a9ee6289ccce"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\public\\project\\notesbuddy.png": {
+    "mtime": 1778325191.3900337,
+    "ast_hash": "77c418f565e3dc274f2d2d8dc17d1cd6",
+    "semantic_hash": "77c418f565e3dc274f2d2d8dc17d1cd6"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\public\\project\\pasandida.png": {
+    "mtime": 1778325191.4023507,
+    "ast_hash": "150c69c127179e956052694656cca51c",
+    "semantic_hash": "150c69c127179e956052694656cca51c"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\public\\project\\quest.png": {
+    "mtime": 1778325191.409007,
+    "ast_hash": "dc6591589eaecd6505456ae5b9a4d4ae",
+    "semantic_hash": "dc6591589eaecd6505456ae5b9a4d4ae"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\public\\project\\ramspace.png": {
+    "mtime": 1778325191.4200726,
+    "ast_hash": "51b534b7ef2a1188389eed3d7e2a3e4a",
+    "semantic_hash": "51b534b7ef2a1188389eed3d7e2a3e4a"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\public\\project\\syncify.png": {
+    "mtime": 1778325191.4301226,
+    "ast_hash": "637faab8dce89e5a31ccebecf6299b02",
+    "semantic_hash": "637faab8dce89e5a31ccebecf6299b02"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\public\\project\\that-startup.png": {
+    "mtime": 1778325191.437016,
+    "ast_hash": "8315f6b43dfb7c4e083b84f76af9ab35",
+    "semantic_hash": "8315f6b43dfb7c4e083b84f76af9ab35"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\public\\project\\valorant.png": {
+    "mtime": 1778325191.4491186,
+    "ast_hash": "9d956d658bc54d7771aaefdd521959af",
+    "semantic_hash": "9d956d658bc54d7771aaefdd521959af"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\public\\skills\\bun.png": {
+    "mtime": 1778325191.4605784,
+    "ast_hash": "b64e953cf4046e804cda9d41295280dd",
+    "semantic_hash": "b64e953cf4046e804cda9d41295280dd"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\public\\skills\\javascript.png": {
+    "mtime": 1778325191.462071,
+    "ast_hash": "f1fa61a4fb5ced8af500ae90086bc7ca",
+    "semantic_hash": "f1fa61a4fb5ced8af500ae90086bc7ca"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\public\\skills\\mongodb.png": {
+    "mtime": 1778325191.462071,
+    "ast_hash": "d8a0807cecc6f2a103e490001ba63264",
+    "semantic_hash": "d8a0807cecc6f2a103e490001ba63264"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\public\\skills\\nextjs.png": {
+    "mtime": 1778325191.462071,
+    "ast_hash": "689c9876e654bdbd934618b17a37ab4a",
+    "semantic_hash": "689c9876e654bdbd934618b17a37ab4a"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\public\\skills\\node.png": {
+    "mtime": 1778325191.4630785,
+    "ast_hash": "7c0b6bdad3c26c5e194bd9547a125a71",
+    "semantic_hash": "7c0b6bdad3c26c5e194bd9547a125a71"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\public\\skills\\postgresql.png": {
+    "mtime": 1778325191.46408,
+    "ast_hash": "a33cf17d8a1946f1a02f4a3588828107",
+    "semantic_hash": "a33cf17d8a1946f1a02f4a3588828107"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\public\\skills\\prisma.png": {
+    "mtime": 1778325191.46408,
+    "ast_hash": "6b6b01030b1ff59d0f0ef10dbf9d3877",
+    "semantic_hash": "6b6b01030b1ff59d0f0ef10dbf9d3877"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\public\\skills\\react.png": {
+    "mtime": 1778325191.4655867,
+    "ast_hash": "ec6b098e9de6ad738fa05e5251530be2",
+    "semantic_hash": "ec6b098e9de6ad738fa05e5251530be2"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\public\\skills\\typescript.png": {
+    "mtime": 1778325191.466594,
+    "ast_hash": "5df9f976a62e8a8b7a55b4eb7c3879b1",
+    "semantic_hash": "5df9f976a62e8a8b7a55b4eb7c3879b1"
+  }
+}
