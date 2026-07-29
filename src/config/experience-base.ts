@@ -19,6 +19,27 @@ export interface ExperienceBase {
 
 export const experiencesBase: ExperienceBase[] = [
   {
+    isCurrent: true,
+    company: 'Defence Research and Development Organisation (DRDO)',
+    position: 'Research Intern',
+    location: 'New Delhi, India',
+    image: '/assets/drdo-official-seeklogo.svg',
+    description: [
+      'Analyzed confidential flight recorder (FDR) data from multiple Indian fighter aircraft and commercial planes, implementing machine learning and deep learning concepts for trend analysis and predictive modeling.',
+      'Received appraisal and an offer to continue collaborating with DRDO to develop a custom Large Language Model (LLM) trained on their confidential datasets.',
+    ],
+    startDate: 'June 2026',
+    endDate: 'Present',
+    technologies: [
+      { name: 'Python', href: 'https://www.python.org/' },
+      { name: 'PyTorch', href: 'https://pytorch.org/' },
+      { name: 'Hugging Face', href: 'https://huggingface.co/' },
+    ],
+    website: 'https://www.drdo.gov.in/',
+    linkedin: 'https://www.linkedin.com/in/dushyant-882a58293/',
+    github: 'https://github.com/dushyantzz',
+  },
+  {
     isCurrent: false,
     company: 'Tellis Technologies Pvt Ltd',
     position: 'AI/ML Developer Intern',

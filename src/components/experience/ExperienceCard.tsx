@@ -31,7 +31,7 @@ export function ExperienceCard({ experience }: ExperienceCardProps) {
             alt={experience.company}
             width={100}
             height={100}
-            className="size-12 rounded-md"
+            className="size-12 rounded-md bg-white object-contain p-1"
           />
           <div className="flex flex-col">
             <div className="flex items-center gap-2">
