@@ -1,0 +1,39 @@
+{
+  "nodes": [
+    {
+      "id": "public_assets_drdo_official_seeklogo_svg",
+      "label": "DRDO Official Logo (Public Assets Copy)",
+      "file_type": "image",
+      "source_file": "public/assets/drdo-official-seeklogo.svg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "drdo_organisation",
+      "label": "Defence Research and Development Organisation (DRDO)",
+      "file_type": "concept",
+      "source_file": "public/assets/drdo-official-seeklogo.svg",
+      "source_location": "sodipodi:docname='drdo.svg'",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "public_assets_drdo_official_seeklogo_svg",
+      "target": "drdo_organisation",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "public/assets/drdo-official-seeklogo.svg",
+      "source_location": "sodipodi:docname='drdo.svg'",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": []
+}

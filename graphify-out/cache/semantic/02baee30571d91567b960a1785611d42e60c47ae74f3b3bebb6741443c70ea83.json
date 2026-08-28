@@ -1,0 +1,200 @@
+{
+  "nodes": [
+    {
+      "id": "landing_github",
+      "label": "Github.tsx",
+      "file_type": "code",
+      "source_file": "src/components/landing/Github.tsx",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "landing_github_activitycalendar",
+      "label": "ActivityCalendar",
+      "file_type": "code",
+      "source_file": "src/components/landing/Github.tsx",
+      "source_location": "L13",
+      "_origin": "ast"
+    },
+    {
+      "id": "landing_github_contributionitem",
+      "label": "ContributionItem",
+      "file_type": "code",
+      "source_file": "src/components/landing/Github.tsx",
+      "source_location": "L18",
+      "_origin": "ast"
+    },
+    {
+      "id": "landing_github_githubcontributionresponse",
+      "label": "GitHubContributionResponse",
+      "file_type": "code",
+      "source_file": "src/components/landing/Github.tsx",
+      "source_location": "L24",
+      "_origin": "ast"
+    },
+    {
+      "id": "landing_github_filterlastyear",
+      "label": "filterLastYear()",
+      "file_type": "code",
+      "source_file": "src/components/landing/Github.tsx",
+      "source_location": "L31",
+      "_origin": "ast"
+    },
+    {
+      "id": "landing_github_github",
+      "label": "Github()",
+      "file_type": "code",
+      "source_file": "src/components/landing/Github.tsx",
+      "source_location": "L41",
+      "_origin": "ast"
+    }
+  ],
+  "edges": [
+    {
+      "source": "landing_github",
+      "target": "config_github",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/landing/Github.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_github",
+      "target": "config_github_githubconfig",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/landing/Github.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_github",
+      "target": "next_themes",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/landing/Github.tsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_github",
+      "target": "dynamic",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/landing/Github.tsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_github",
+      "target": "link",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/landing/Github.tsx",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_github",
+      "target": "react",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/landing/Github.tsx",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_github",
+      "target": "c_users_shubham_desktop_core_project_portfolio_website_src_components_common_container_tsx",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/landing/Github.tsx",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_github",
+      "target": "c_users_shubham_desktop_core_project_portfolio_website_src_components_svgs_github_tsx",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/landing/Github.tsx",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_github",
+      "target": "c_users_shubham_desktop_core_project_portfolio_website_src_components_ui_button_tsx",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/landing/Github.tsx",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_github",
+      "target": "ui_button_button",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/landing/Github.tsx",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_github",
+      "target": "landing_github_activitycalendar",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/landing/Github.tsx",
+      "source_location": "L13",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_github",
+      "target": "landing_github_contributionitem",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/landing/Github.tsx",
+      "source_location": "L18",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_github",
+      "target": "landing_github_githubcontributionresponse",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/landing/Github.tsx",
+      "source_location": "L24",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_github",
+      "target": "landing_github_filterlastyear",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/landing/Github.tsx",
+      "source_location": "L31",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_github",
+      "target": "landing_github_github",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/landing/Github.tsx",
+      "source_location": "L41",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": []
+}

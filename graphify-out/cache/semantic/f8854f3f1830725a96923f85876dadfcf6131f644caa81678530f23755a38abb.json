@@ -1,0 +1,32 @@
+{
+  "nodes": [
+    {
+      "id": "config_github",
+      "label": "Github.tsx",
+      "file_type": "code",
+      "source_file": "src/config/Github.tsx",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "config_github_githubconfig",
+      "label": "githubConfig",
+      "file_type": "code",
+      "source_file": "src/config/Github.tsx",
+      "source_location": "L8",
+      "_origin": "ast"
+    }
+  ],
+  "edges": [
+    {
+      "source": "config_github",
+      "target": "config_github_githubconfig",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/config/Github.tsx",
+      "source_location": "L8",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": []
+}

@@ -135,9 +135,9 @@
     "hash": "ab932e61258760a0a56a8c4470c572f2b7d07fc64be6b57af4d9d07594bb4dc8"
   },
   "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\public\\dushyant-resume.pdf": {
-    "size": 117355,
-    "mtime_ns": 1782399656795907800,
-    "hash": "656d54041016166201df1bb44634bdc9a009d7e74175805156baeebfc5b58ea2"
+    "size": 119112,
+    "mtime_ns": 1784959930229413500,
+    "hash": "1bcf948accd55b74f023eccadc6041000b298955afc237d3d9b3e624796b2b60"
   },
   "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\WhatsApp Image 2025-05-10 at 20.50.26_89d2c815.jpg": {
     "size": 927957,
@@ -398,5 +398,50 @@
     "size": 3985,
     "mtime_ns": 1778325191466593900,
     "hash": "c6447a2cf798cfdd6841216f2bfcbe132239b617643a3715041bcd6c52dc4839"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\.claude\\settings.local.json": {
+    "size": 307,
+    "mtime_ns": 1787900151640417900,
+    "hash": "b5075f3d9b132c9d4bc4d9e40dec1d8542402f30a30e2082946a892a9069734a"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\.serena\\project.local.yml": {
+    "size": 407,
+    "mtime_ns": 1787899661436387200,
+    "hash": "0450eaa72a3ced2f39a8d6d3102f5d22fd7905267262a377ccccfb9a9622672c"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\.serena\\project.yml": {
+    "size": 9964,
+    "mtime_ns": 1787899661973366200,
+    "hash": "2058c5bf1fbc2f766820a8fda97b3460d4b93d10fd8dbab80ebcffa7905c7886"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\drdo-official-seeklogo.svg": {
+    "size": 728626,
+    "mtime_ns": 1785300217462286400,
+    "hash": "7a27db9ea2638dca1b2ddda994d3d3476f65a1394136c9e7047925f49b1c1bac"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\public\\assets\\drdo-official-seeklogo.svg": {
+    "size": 728626,
+    "mtime_ns": 1785300217462286400,
+    "hash": "a6738f57ccd6a10875a9a74102a3b8b013c3d4371d5d980ac4fde56fe793fed5"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\experience\\ExperienceCard.tsx": {
+    "size": 5086,
+    "mtime_ns": 1785304235244194700,
+    "hash": "f47c2ae1f45f25e66f26ccb932fb60d6fc6c6938fa4097bff8a4d403011c6746"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\components\\landing\\Github.tsx": {
+    "size": 6112,
+    "mtime_ns": 1785304235321209800,
+    "hash": "02baee30571d91567b960a1785611d42e60c47ae74f3b3bebb6741443c70ea83"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\config\\Github.tsx": {
+    "size": 1762,
+    "mtime_ns": 1785304235346990800,
+    "hash": "f8854f3f1830725a96923f85876dadfcf6131f644caa81678530f23755a38abb"
+  },
+  "C:\\Users\\Shubham\\Desktop\\CORE PROJECT\\Portfolio-Website\\src\\config\\experience-base.ts": {
+    "size": 2801,
+    "mtime_ns": 1785304235374576800,
+    "hash": "81da1e809f3e8ec62daca9a100964babe9ef1d6e9e08eb53dc0ef90960a6c725"
   }
 }

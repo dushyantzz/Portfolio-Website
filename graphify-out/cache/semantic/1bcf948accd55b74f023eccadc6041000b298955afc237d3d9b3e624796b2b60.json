@@ -1,0 +1,38 @@
+{
+  "nodes": [
+    {
+      "id": "public_dushyant_resume_pdf",
+      "label": "Dushyant Resume (PDF)",
+      "file_type": "document",
+      "source_file": "public/dushyant-resume.pdf",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "Dushyant",
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "public_dushyant_resume_pdf",
+      "target": "drdo_organisation",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "public/dushyant-resume.pdf",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "public_dushyant_resume_pdf",
+      "target": "serena_project_yml_portfolio_website",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "public/dushyant-resume.pdf",
+      "source_location": null,
+      "weight": 0.9
+    }
+  ],
+  "hyperedges": []
+}

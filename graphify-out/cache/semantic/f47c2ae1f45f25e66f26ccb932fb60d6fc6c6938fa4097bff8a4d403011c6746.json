@@ -1,0 +1,226 @@
+{
+  "nodes": [
+    {
+      "id": "experience_experiencecard",
+      "label": "ExperienceCard.tsx",
+      "file_type": "code",
+      "source_file": "src/components/experience/ExperienceCard.tsx",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "experience_experiencecard_experiencecardprops",
+      "label": "ExperienceCardProps",
+      "file_type": "code",
+      "source_file": "src/components/experience/ExperienceCard.tsx",
+      "source_location": "L14",
+      "_origin": "ast"
+    },
+    {
+      "id": "experience_experiencecard_parsedescription",
+      "label": "parseDescription()",
+      "file_type": "code",
+      "source_file": "src/components/experience/ExperienceCard.tsx",
+      "source_location": "L18",
+      "_origin": "ast"
+    },
+    {
+      "id": "experience_experiencecard_experiencecard",
+      "label": "ExperienceCard()",
+      "file_type": "code",
+      "source_file": "src/components/experience/ExperienceCard.tsx",
+      "source_location": "L22",
+      "_origin": "ast"
+    }
+  ],
+  "edges": [
+    {
+      "source": "experience_experiencecard",
+      "target": "c_users_shubham_desktop_core_project_portfolio_website_src_config_experience_tsx",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/experience/ExperienceCard.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "experience_experiencecard",
+      "target": "config_experience_experience",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/experience/ExperienceCard.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "experience_experiencecard",
+      "target": "c_users_shubham_desktop_core_project_portfolio_website_src_lib_utils_ts",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/experience/ExperienceCard.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "experience_experiencecard",
+      "target": "lib_utils_cn",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/experience/ExperienceCard.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "experience_experiencecard",
+      "target": "next_view_transitions",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/experience/ExperienceCard.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "experience_experiencecard",
+      "target": "image",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/experience/ExperienceCard.tsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "experience_experiencecard",
+      "target": "react",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/experience/ExperienceCard.tsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "experience_experiencecard",
+      "target": "c_users_shubham_desktop_core_project_portfolio_website_src_components_common_skill_tsx",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/experience/ExperienceCard.tsx",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "experience_experiencecard",
+      "target": "c_users_shubham_desktop_core_project_portfolio_website_src_components_svgs_github_tsx",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/experience/ExperienceCard.tsx",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "experience_experiencecard",
+      "target": "c_users_shubham_desktop_core_project_portfolio_website_src_components_svgs_linkedin_tsx",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/experience/ExperienceCard.tsx",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "experience_experiencecard",
+      "target": "c_users_shubham_desktop_core_project_portfolio_website_src_components_svgs_website_tsx",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/experience/ExperienceCard.tsx",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "experience_experiencecard",
+      "target": "c_users_shubham_desktop_core_project_portfolio_website_src_components_svgs_x_tsx",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/experience/ExperienceCard.tsx",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "experience_experiencecard",
+      "target": "c_users_shubham_desktop_core_project_portfolio_website_src_components_ui_tooltip_tsx",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/experience/ExperienceCard.tsx",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "experience_experiencecard",
+      "target": "ui_tooltip_tooltip",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/experience/ExperienceCard.tsx",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "experience_experiencecard",
+      "target": "ui_tooltip_tooltipcontent",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/experience/ExperienceCard.tsx",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "experience_experiencecard",
+      "target": "ui_tooltip_tooltiptrigger",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/experience/ExperienceCard.tsx",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "experience_experiencecard",
+      "target": "experience_experiencecard_experiencecardprops",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/experience/ExperienceCard.tsx",
+      "source_location": "L14",
+      "weight": 1.0
+    },
+    {
+      "source": "experience_experiencecard",
+      "target": "experience_experiencecard_parsedescription",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/experience/ExperienceCard.tsx",
+      "source_location": "L18",
+      "weight": 1.0
+    },
+    {
+      "source": "experience_experiencecard",
+      "target": "experience_experiencecard_experiencecard",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/experience/ExperienceCard.tsx",
+      "source_location": "L22",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": []
+}
