@@ -52,6 +52,31 @@ export const projectsBase: ProjectBase[] = [
     ],
   },
   {
+    id: 'ghosthand',
+    title: 'Ghosthand',
+    repositoryLabel: 'AI PC-control agent',
+    tagline:
+      'C# · .NET 8 · WPF · Windows UI Automation · Jev via Vercel AI Gateway',
+    statusLabel: 'Open source · 55 stars · 14 forks',
+    metaRight: 'Agents · Desktop automation',
+    description:
+      'Windows-native AI desktop assistant that reads the UI Automation tree of the focused app, picks the optimal action with the Jev decision model via Vercel AI Gateway, and pauses for human confirmation before irreversible steps.',
+    image: '/assets/logo.png',
+    link: 'https://github.com/dushyantzz/Ghosthand',
+    live: 'https://github.com/dushyantzz/Ghosthand',
+    technologyNames: ['C#', '.NET', 'WPF'],
+    details: false,
+    projectDetailsPageSlug: '#',
+    isWorking: true,
+    primaryLinkLabel: 'View repository',
+    accomplishments: [
+      'Built a *desktop AI assistant for Windows* controlled by voice or text: a *global shortcut* opens a popup, you say what you want, and it operates the PC (e.g. open LinkedIn, search AI jobs, click Apply).',
+      'Powered by the *Jev decision model* via *Vercel AI Gateway*, so the agent decides what to do next from live screen state instead of hardcoded scripts.',
+      'Kept the human in control: the agent runs steps autonomously but *pauses for confirmation before irreversible actions* like submitting or applying.',
+      'Grew to *55 stars and 14 forks*, and a contributor ported it to *macOS in Swift using Laya* to run fully local.',
+    ],
+  },
+  {
     id: 'ultranlp',
     title: 'UltraNLP',
     repositoryLabel: 'NLP library · preprocessing',
