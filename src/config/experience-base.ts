@@ -22,13 +22,13 @@ export const experiencesBase: ExperienceBase[] = [
     isCurrent: true,
     company: 'Defence Research and Development Organisation (DRDO)',
     position: 'Research Intern',
-    location: 'New Delhi, India',
+    location: 'HAL Korwa, Amethi, India',
     image: '/assets/drdo-official-seeklogo.svg',
     description: [
       'Analyzed confidential flight recorder (FDR) data from multiple Indian fighter aircraft and commercial planes, implementing machine learning and deep learning concepts for trend analysis and predictive modeling.',
       'Received appraisal and an offer to continue collaborating with DRDO to develop a custom Large Language Model (LLM) trained on their confidential datasets.',
     ],
-    startDate: 'June 2026',
+    startDate: 'July 2026',
     endDate: 'Present',
     technologies: [
       { name: 'Python', href: 'https://www.python.org/' },

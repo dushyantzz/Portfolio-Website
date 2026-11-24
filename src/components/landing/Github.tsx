@@ -63,16 +63,24 @@ export default function Github() {
           }));
 
           if (validContributions.length > 0) {
-            // Calculate total contributions
-            const total = validContributions.reduce(
+            // Sort chronologically: the API returns entries grouped by
+            // calendar year (most recent year first), but
+            // react-activity-calendar requires ascending dates.
+            const sortedContributions = [...validContributions].sort((a, b) =>
+              a.date.localeCompare(b.date),
+            );
+
+            // Filter to show only the past year
+            const filteredContributions = filterLastYear(sortedContributions);
+            setContributions(filteredContributions);
+
+            // Total counts only the contributions shown in the calendar
+            // (the past year), matching the graph below it.
+            const total = filteredContributions.reduce(
               (sum, item) => sum + item.count,
               0,
             );
             setTotalContributions(total);
-
-            // Filter to show only the past year
-            const filteredContributions = filterLastYear(validContributions);
-            setContributions(filteredContributions);
           } else {
             setHasError(true);
           }
