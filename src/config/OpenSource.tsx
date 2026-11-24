@@ -14,6 +14,10 @@ export interface OpenSourceContribution {
   prUrl: string;
   /** Button / link text */
   prLinkLabel: string;
+  /** Optional repository URL for a second link */
+  repoUrl?: string;
+  /** Button / link text for the repository link */
+  repoLinkLabel?: string;
   accomplishments: string[];
 }
 
@@ -60,6 +64,24 @@ export const openSourceContributions: OpenSourceContribution[] = [
     accomplishments: [
       'Fixed Whisper / audio-style billing where *output_cost_per_second* overrides behaved incorrectly alongside *input_cost_per_second*—so per-second output pricing applies only when configured above zero while input seconds still bill even when output cost is zero.',
       'Shipped an isolated regression test under `tests/litellm/` and tightened documentation so operators understand how zero output rates interact with custom pricing—matching real-world transcription billing.',
+    ],
+  },
+  {
+    id: 'openmf-domain-logging',
+    project: 'OpenMF (Mifos)',
+    repositoryLabel: 'openMF/mcp-mifosx',
+    role: 'Contributor · Python · MCP · Logging · Security · Testing',
+    mergedLabel: 'Merged Nov 23, 2026',
+    metaRight: 'Pull request #707 · +187 / −74 · 11 files changed',
+    prUrl: 'https://github.com/openMF/mcp-mifosx/pull/707',
+    prLinkLabel: 'View pull request',
+    repoUrl: 'https://github.com/openMF/mcp-mifosx',
+    repoLinkLabel: 'View repository',
+    accomplishments: [
+      'Fixed a *protocol-breaking bug*: the MCP server\u2019s domain tools used 74 raw *print()* calls that wrote to stdout, which can corrupt the *JSON-RPC channel*. Replaced all of them with a module-level *logging.getLogger(__name__)* logger (writes to *stderr*), following the pattern already used in the adapter and server.',
+      'Removed *PII from logs*: redacted *personal names*, *name-search queries*, and *monetary amounts* from log messages in a banking context, while keeping *system IDs* loggable for debugging.',
+      'Added *regression tests* (tests/test_domain_logging.py): an *AST guard* so no future print() can enter a domain module, a *stdout-purity check*, and a *PII-absence check*.',
+      'Selected as a *contributor to the OpenMF organisation* — the *MCP server for the Mifos X core banking platform*.',
     ],
   },
   {

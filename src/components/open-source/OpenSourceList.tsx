@@ -29,12 +29,16 @@ export function OpenSourceList({ items }: OpenSourceListProps) {
                     {item.repositoryLabel}
                   </span>
                 </div>
-                <p className="text-secondary text-sm md:text-base">{item.role}</p>
+                <p className="text-secondary text-sm md:text-base">
+                  {item.role}
+                </p>
               </div>
               <div className="text-secondary shrink-0 space-y-0.5 md:text-right">
                 <p className="text-sm">{item.mergedLabel}</p>
                 {item.metaRight ? (
-                  <p className="text-muted-foreground text-sm">{item.metaRight}</p>
+                  <p className="text-muted-foreground text-sm">
+                    {item.metaRight}
+                  </p>
                 ) : null}
               </div>
             </div>
@@ -47,7 +51,7 @@ export function OpenSourceList({ items }: OpenSourceListProps) {
                 {item.accomplishments.map((line, i) => (
                   <p
                     key={`${item.id}-acc-${i}`}
-                    className="relative pl-4 before:absolute before:left-0 before:top-[0.55em] before:size-1.5 before:bg-current before:opacity-50 before:content-['']"
+                    className="relative pl-4 before:absolute before:top-[0.55em] before:left-0 before:size-1.5 before:bg-current before:opacity-50 before:content-['']"
                     dangerouslySetInnerHTML={{
                       __html: parseDescription(line),
                     }}
@@ -56,17 +60,37 @@ export function OpenSourceList({ items }: OpenSourceListProps) {
               </div>
             </div>
 
-            <Button variant="outline" size="sm" className="w-fit gap-2" asChild>
-              <a
-                href={item.prUrl}
-                target="_blank"
-                rel="noopener noreferrer"
+            <div className="flex flex-wrap gap-3">
+              <Button
+                variant="outline"
+                size="sm"
+                className="w-fit gap-2"
+                asChild
               >
-                <Github className="size-4 opacity-80" />
-                {item.prLinkLabel}
-                <ArrowUpRight className="size-3.5 opacity-70" />
-              </a>
-            </Button>
+                <a href={item.prUrl} target="_blank" rel="noopener noreferrer">
+                  <Github className="size-4 opacity-80" />
+                  {item.prLinkLabel}
+                  <ArrowUpRight className="size-3.5 opacity-70" />
+                </a>
+              </Button>
+              {item.repoUrl && item.repoLinkLabel ? (
+                <Button
+                  variant="outline"
+                  size="sm"
+                  className="w-fit gap-2"
+                  asChild
+                >
+                  <a
+                    href={item.repoUrl}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    {item.repoLinkLabel}
+                    <ArrowUpRight className="size-3.5 opacity-70" />
+                  </a>
+                </Button>
+              ) : null}
+            </div>
           </article>
 
           {index < items.length - 1 ? (
