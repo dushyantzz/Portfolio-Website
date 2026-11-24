@@ -19,7 +19,7 @@ export interface ExperienceBase {
 
 export const experiencesBase: ExperienceBase[] = [
   {
-    isCurrent: true,
+    isCurrent: false,
     company: 'Defence Research and Development Organisation (DRDO)',
     position: 'Research Intern',
     location: 'HAL Korwa, Amethi, India',
@@ -28,8 +28,8 @@ export const experiencesBase: ExperienceBase[] = [
       'Analyzed confidential flight recorder (FDR) data from multiple Indian fighter aircraft and commercial planes, implementing machine learning and deep learning concepts for trend analysis and predictive modeling.',
       'Received appraisal and an offer to continue collaborating with DRDO to develop a custom Large Language Model (LLM) trained on their confidential datasets.',
     ],
-    startDate: 'July 2026',
-    endDate: 'Present',
+    startDate: 'June 2026',
+    endDate: 'July 2026',
     technologies: [
       { name: 'Python', href: 'https://www.python.org/' },
       { name: 'PyTorch', href: 'https://pytorch.org/' },
